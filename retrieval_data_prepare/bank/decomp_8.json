@@ -1,0 +1,158 @@
+{
+  "璨": {
+    "character": "璨",
+    "id": "0015",
+    "path": "rag_quick/cases/content/0015.jpg",
+    "freq": null,
+    "script": "common",
+    "ids": "⿰王粲",
+    "layout": "⿰",
+    "top_level_components": [
+      "王",
+      "粲"
+    ],
+    "leaf_components": [
+      "王",
+      "歺",
+      "又",
+      "米"
+    ],
+    "stroke_count": 17
+  },
+  "霆": {
+    "character": "霆",
+    "id": "0023",
+    "path": "rag_quick/cases/content/0023.jpg",
+    "freq": null,
+    "script": "common",
+    "ids": "⿱雨廷",
+    "layout": "⿱",
+    "top_level_components": [
+      "雨",
+      "廷"
+    ],
+    "leaf_components": [
+      "雨",
+      "廴",
+      "壬"
+    ],
+    "stroke_count": 14
+  },
+  "鳞": {
+    "character": "鳞",
+    "id": "0053",
+    "path": "rag_quick/cases/content/0053.jpg",
+    "freq": null,
+    "script": "simplified",
+    "ids": "⿰鱼粦",
+    "layout": "⿰",
+    "top_level_components": [
+      "鱼",
+      "粦"
+    ],
+    "leaf_components": [
+      "鱼",
+      "米",
+      "夕",
+      "㐄"
+    ],
+    "stroke_count": 20
+  },
+  "彎": {
+    "character": "彎",
+    "id": "0055",
+    "path": "rag_quick/cases/content/0055.jpg",
+    "freq": null,
+    "script": "traditional",
+    "ids": "⿱䜌弓",
+    "layout": "⿱",
+    "top_level_components": [
+      "䜌",
+      "弓"
+    ],
+    "leaf_components": [
+      "糹",
+      "言",
+      "糹",
+      "弓"
+    ],
+    "stroke_count": 22
+  },
+  "瘻": {
+    "character": "瘻",
+    "id": "0065",
+    "path": "rag_quick/cases/content/0065.jpg",
+    "freq": null,
+    "script": "traditional",
+    "ids": "⿸疒婁",
+    "layout": "⿸",
+    "top_level_components": [
+      "疒",
+      "婁"
+    ],
+    "leaf_components": [
+      "疒",
+      "婁"
+    ],
+    "stroke_count": 16
+  },
+  "秦": {
+    "character": "秦",
+    "id": "0075",
+    "path": "rag_quick/cases/content/0075.jpg",
+    "freq": null,
+    "script": "common",
+    "ids": "⿱𡗗禾",
+    "layout": "⿱",
+    "top_level_components": [
+      "𡗗",
+      "禾"
+    ],
+    "leaf_components": [
+      "三",
+      "人",
+      "禾"
+    ],
+    "stroke_count": 10
+  },
+  "赢": {
+    "character": "赢",
+    "id": "3273",
+    "path": "rag_quick/cases/content/3273.jpg",
+    "freq": null,
+    "script": "simplified",
+    "ids": "⿱吂⿲月贝凡",
+    "layout": "⿱",
+    "top_level_components": [
+      "吂",
+      "⿲月贝凡"
+    ],
+    "leaf_components": [
+      "亡",
+      "口",
+      "月",
+      "贝",
+      "凡"
+    ],
+    "stroke_count": 17
+  },
+  "諢": {
+    "character": "諢",
+    "id": "3323",
+    "path": "rag_quick/cases/content/3323.jpg",
+    "freq": null,
+    "script": "traditional",
+    "ids": "⿰言軍",
+    "layout": "⿰",
+    "top_level_components": [
+      "言",
+      "軍"
+    ],
+    "leaf_components": [
+      "言",
+      "冖",
+      "車"
+    ],
+    "stroke_count": 16
+  }
+}

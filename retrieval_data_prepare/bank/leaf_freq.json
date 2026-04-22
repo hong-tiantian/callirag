@@ -1,0 +1,405 @@
+{
+  "total_unique_raw_leaf_components": 248,
+  "top_100": [
+    {
+      "component": "口",
+      "freq": 872
+    },
+    {
+      "component": "十",
+      "freq": 867
+    },
+    {
+      "component": "人",
+      "freq": 518
+    },
+    {
+      "component": "丷",
+      "freq": 378
+    },
+    {
+      "component": "木",
+      "freq": 371
+    },
+    {
+      "component": "八",
+      "freq": 352
+    },
+    {
+      "component": "日",
+      "freq": 317
+    },
+    {
+      "component": "𠂊",
+      "freq": 239
+    },
+    {
+      "component": "氵",
+      "freq": 229
+    },
+    {
+      "component": "月",
+      "freq": 209
+    },
+    {
+      "component": "亻",
+      "freq": 186
+    },
+    {
+      "component": "二",
+      "freq": 180
+    },
+    {
+      "component": "冂",
+      "freq": 166
+    },
+    {
+      "component": "宀",
+      "freq": 152
+    },
+    {
+      "component": "扌",
+      "freq": 151
+    },
+    {
+      "component": "又",
+      "freq": 128
+    },
+    {
+      "component": "儿",
+      "freq": 121
+    },
+    {
+      "component": "田",
+      "freq": 121
+    },
+    {
+      "component": "目",
+      "freq": 110
+    },
+    {
+      "component": "厶",
+      "freq": 109
+    },
+    {
+      "component": "冫",
+      "freq": 106
+    },
+    {
+      "component": "冖",
+      "freq": 95
+    },
+    {
+      "component": "阝",
+      "freq": 93
+    },
+    {
+      "component": "女",
+      "freq": 91
+    },
+    {
+      "component": "𠂉",
+      "freq": 89
+    },
+    {
+      "component": "辶",
+      "freq": 86
+    },
+    {
+      "component": "言",
+      "freq": 85
+    },
+    {
+      "component": "心",
+      "freq": 83
+    },
+    {
+      "component": "白",
+      "freq": 80
+    },
+    {
+      "component": "虫",
+      "freq": 79
+    },
+    {
+      "component": "止",
+      "freq": 79
+    },
+    {
+      "component": "尸",
+      "freq": 75
+    },
+    {
+      "component": "隹",
+      "freq": 74
+    },
+    {
+      "component": "攵",
+      "freq": 72
+    },
+    {
+      "component": "勹",
+      "freq": 72
+    },
+    {
+      "component": "忄",
+      "freq": 72
+    },
+    {
+      "component": "灬",
+      "freq": 67
+    },
+    {
+      "component": "夂",
+      "freq": 63
+    },
+    {
+      "component": "米",
+      "freq": 62
+    },
+    {
+      "component": "囗",
+      "freq": 62
+    },
+    {
+      "component": "寸",
+      "freq": 61
+    },
+    {
+      "component": "刀",
+      "freq": 61
+    },
+    {
+      "component": "巾",
+      "freq": 61
+    },
+    {
+      "component": "广",
+      "freq": 60
+    },
+    {
+      "component": "厂",
+      "freq": 57
+    },
+    {
+      "component": "丆",
+      "freq": 57
+    },
+    {
+      "component": "力",
+      "freq": 55
+    },
+    {
+      "component": "刂",
+      "freq": 55
+    },
+    {
+      "component": "凵",
+      "freq": 55
+    },
+    {
+      "component": "山",
+      "freq": 55
+    },
+    {
+      "component": "コ",
+      "freq": 54
+    },
+    {
+      "component": "⺌",
+      "freq": 51
+    },
+    {
+      "component": "⺊",
+      "freq": 51
+    },
+    {
+      "component": "疒",
+      "freq": 50
+    },
+    {
+      "component": "𠂆",
+      "freq": 44
+    },
+    {
+      "component": "子",
+      "freq": 44
+    },
+    {
+      "component": "丁",
+      "freq": 44
+    },
+    {
+      "component": "匕",
+      "freq": 44
+    },
+    {
+      "component": "皿",
+      "freq": 44
+    },
+    {
+      "component": "龴",
+      "freq": 43
+    },
+    {
+      "component": "工",
+      "freq": 43
+    },
+    {
+      "component": "𫠠",
+      "freq": 42
+    },
+    {
+      "component": "几",
+      "freq": 42
+    },
+    {
+      "component": "示",
+      "freq": 42
+    },
+    {
+      "component": "纟",
+      "freq": 42
+    },
+    {
+      "component": "𠂇",
+      "freq": 41
+    },
+    {
+      "component": "乂",
+      "freq": 41
+    },
+    {
+      "component": "龶",
+      "freq": 40
+    },
+    {
+      "component": "酉",
+      "freq": 37
+    },
+    {
+      "component": "且",
+      "freq": 36
+    },
+    {
+      "component": "豆",
+      "freq": 36
+    },
+    {
+      "component": "罒",
+      "freq": 36
+    },
+    {
+      "component": "弓",
+      "freq": 36
+    },
+    {
+      "component": "干",
+      "freq": 35
+    },
+    {
+      "component": "方",
+      "freq": 35
+    },
+    {
+      "component": "𧘇",
+      "freq": 35
+    },
+    {
+      "component": "欠",
+      "freq": 35
+    },
+    {
+      "component": "𭕄",
+      "freq": 34
+    },
+    {
+      "component": "㐅",
+      "freq": 32
+    },
+    {
+      "component": "丅",
+      "freq": 32
+    },
+    {
+      "component": "耂",
+      "freq": 32
+    },
+    {
+      "component": "彳",
+      "freq": 30
+    },
+    {
+      "component": "車",
+      "freq": 29
+    },
+    {
+      "component": "匚",
+      "freq": 29
+    },
+    {
+      "component": "衤",
+      "freq": 27
+    },
+    {
+      "component": "𧰨",
+      "freq": 27
+    },
+    {
+      "component": "糸",
+      "freq": 26
+    },
+    {
+      "component": "龰",
+      "freq": 25
+    },
+    {
+      "component": "耳",
+      "freq": 25
+    },
+    {
+      "component": "犭",
+      "freq": 25
+    },
+    {
+      "component": "甲",
+      "freq": 25
+    },
+    {
+      "component": "艮",
+      "freq": 24
+    },
+    {
+      "component": "廿",
+      "freq": 24
+    },
+    {
+      "component": "廾",
+      "freq": 24
+    },
+    {
+      "component": "㔾",
+      "freq": 23
+    },
+    {
+      "component": "井",
+      "freq": 23
+    },
+    {
+      "component": "頁",
+      "freq": 23
+    },
+    {
+      "component": "七",
+      "freq": 23
+    },
+    {
+      "component": "卩",
+      "freq": 23
+    },
+    {
+      "component": "臼",
+      "freq": 21
+    }
+  ]
+}
