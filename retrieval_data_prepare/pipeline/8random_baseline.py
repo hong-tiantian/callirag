@@ -12,9 +12,8 @@ from __future__ import annotations
 import importlib.util
 import json
 import random
+import statistics
 from pathlib import Path
-
-random.seed(42)
 
 ROOT = Path(__file__).resolve().parents[1]
 BANK_PATH = ROOT / "bank" / "wxz_bank.json"
@@ -23,6 +22,8 @@ OUTPUT_JSON_PATH = ROOT / "outputs" / "random_baseline_results.json"
 OUTPUT_MD_PATH = ROOT / "random_vs_structural_summary.md"
 
 TARGET_CHARS = ["璨", "霆", "鳞", "彎", "瘻", "秦", "赢", "諢"]
+N_SEEDS = 30
+SAMPLE_SIZE = 5
 
 
 def _load_retrieve6_module():
@@ -117,69 +118,88 @@ def main() -> None:
     structural = _parse_structural_report(report_text)
 
     results: dict = {
-        "seed": 42,
+        "n_seeds": N_SEEDS,
+        "sample_size": SAMPLE_SIZE,
+        "seeds": list(range(N_SEEDS)),
         "targets": {},
     }
 
     summary_lines = [
-        "| target | target_comps | structural_covered | structural_rate | random_covered | random_rate |",
-        "|---|---|---|---:|---|---:|",
+        "| target | target_comps | structural_rate | random_mean | random_std | random_max | delta(struct-mean) |",
+        "|---|---|---:|---:|---:|---:|---:|",
     ]
 
     for ch in TARGET_CHARS:
         target_comps = list(structural[ch]["target_components"])
-
         pool = _candidate_pool(bank, ch, ocr_conf_min=0.9)
-        random_refs = random.sample(pool, 5)
 
-        seen_components: set[str] = set()
-        for ref in random_refs:
-            seen_components.update(ref.get("retrieval_components", []) or [])
+        per_seed_runs: list[dict] = []
+        per_comp_hit_counts: dict[str, int] = {c: 0 for c in target_comps}
+        rates: list[float] = []
 
-        per_component_hit: dict[str, int] = {}
-        covered_components: list[str] = []
-        uncovered_components: list[str] = []
-        for comp in target_comps:
-            hit = 1 if comp in seen_components else 0
-            per_component_hit[comp] = hit
-            if hit:
-                covered_components.append(comp)
-            else:
-                uncovered_components.append(comp)
+        for seed in range(N_SEEDS):
+            rng = random.Random(seed)
+            random_refs = rng.sample(pool, SAMPLE_SIZE)
 
-        random_rate = len(covered_components) / len(target_comps)
+            seen_components: set[str] = set()
+            for ref in random_refs:
+                seen_components.update(ref["retrieval_components"])
+
+            covered = [c for c in target_comps if c in seen_components]
+            uncovered = [c for c in target_comps if c not in seen_components]
+            for c in covered:
+                per_comp_hit_counts[c] += 1
+
+            rate = len(covered) / len(target_comps)
+            rates.append(rate)
+
+            per_seed_runs.append({
+                "seed": seed,
+                "refs": [
+                    {
+                        "bank_id": r["bank_id"],
+                        "char": r["character"],
+                        "retrieval_components": r["retrieval_components"],
+                        "layout": r["layout"],
+                        "strokes": r["stroke_count"],
+                        "wxz_path": r["wxz_path"],
+                    }
+                    for r in random_refs
+                ],
+                "covered_components": covered,
+                "uncovered_components": uncovered,
+                "coverage_rate": rate,
+            })
+
+        mean_rate = statistics.mean(rates)
+        std_rate = statistics.pstdev(rates) if len(rates) > 1 else 0.0
+        max_rate = max(rates)
+        min_rate = min(rates)
         structural_rate = structural[ch]["rate"]
-        delta = structural_rate - random_rate
-
-        refs_payload = []
-        for ref in random_refs:
-            refs_payload.append(
-                {
-                    "bank_id": ref["bank_id"],
-                    "char": ref["character"],
-                    "retrieval_components": ref["retrieval_components"],
-                    "layout": ref["layout"],
-                    "strokes": ref["stroke_count"],
-                    "wxz_path": ref["wxz_path"],
-                }
-            )
+        per_comp_hit_prob = {c: per_comp_hit_counts[c] / N_SEEDS for c in target_comps}
 
         results["targets"][ch] = {
             "target_retrieval_components": target_comps,
-            "random_refs": refs_payload,
-            "per_component_hit": per_component_hit,
-            "covered_components": covered_components,
-            "uncovered_components": uncovered_components,
-            "coverage_rate": random_rate,
+            "pool_size": len(pool),
+            "structural_rate": structural_rate,
+            "structural_covered": structural[ch]["covered_components"],
+            "random_rate_mean": mean_rate,
+            "random_rate_std": std_rate,
+            "random_rate_min": min_rate,
+            "random_rate_max": max_rate,
+            "per_component_hit_prob": per_comp_hit_prob,
+            "per_seed_runs": per_seed_runs,
         }
 
         summary_lines.append(
-            f"| {ch} | {target_comps} | {structural[ch]['covered_components']} | "
-            f"{structural_rate:.4f} | {covered_components} | {random_rate:.4f} |"
+            f"| {ch} | {target_comps} | {structural_rate:.4f} | "
+            f"{mean_rate:.4f} | {std_rate:.4f} | {max_rate:.4f} | "
+            f"{structural_rate - mean_rate:+.4f} |"
         )
         print(
-            f"{ch}: structural_rate={structural_rate:.4f}, "
-            f"random_rate={random_rate:.4f}, delta={delta:.4f}"
+            f"{ch}: struct={structural_rate:.4f}  "
+            f"rand_mean={mean_rate:.4f}  rand_std={std_rate:.4f}  "
+            f"rand_max={max_rate:.4f}  delta={structural_rate - mean_rate:+.4f}"
         )
 
     OUTPUT_JSON_PATH.parent.mkdir(parents=True, exist_ok=True)

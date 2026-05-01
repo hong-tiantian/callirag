@@ -1,5 +1,5 @@
 {
-  "total_unique_raw_leaf_components": 248,
+  "total_unique_raw_leaf_components": 249,
   "top_100": [
     {
       "component": "口",
@@ -19,7 +19,7 @@
     },
     {
       "component": "木",
-      "freq": 371
+      "freq": 370
     },
     {
       "component": "八",
@@ -66,12 +66,12 @@
       "freq": 128
     },
     {
-      "component": "儿",
+      "component": "田",
       "freq": 121
     },
     {
-      "component": "田",
-      "freq": 121
+      "component": "儿",
+      "freq": 120
     },
     {
       "component": "目",
@@ -95,7 +95,7 @@
     },
     {
       "component": "女",
-      "freq": 91
+      "freq": 90
     },
     {
       "component": "𠂉",
@@ -107,7 +107,7 @@
     },
     {
       "component": "言",
-      "freq": 85
+      "freq": 86
     },
     {
       "component": "心",
@@ -206,15 +206,15 @@
       "freq": 54
     },
     {
-      "component": "⺌",
-      "freq": 51
-    },
-    {
       "component": "⺊",
       "freq": 51
     },
     {
       "component": "疒",
+      "freq": 50
+    },
+    {
+      "component": "⺌",
       "freq": 50
     },
     {
