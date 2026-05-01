@@ -1,0 +1,19 @@
+{
+  "n_chars": 2705,
+  "k_stats": {
+    "min": 5,
+    "max": 5,
+    "mean": 5.0,
+    "median": 5,
+    "p50": 5,
+    "p75": 5,
+    "p90": 5,
+    "p95": 5,
+    "p99": 5
+  },
+  "histogram": {
+    "5": 2705
+  },
+  "anchor_only_chars": 525,
+  "anchor_only_ratio": 0.194085
+}

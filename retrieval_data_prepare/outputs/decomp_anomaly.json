@@ -1,0 +1,802 @@
+[
+  {
+    "type": "decomp_anomaly",
+    "char": "皮",
+    "layout": "",
+    "top_level_components": [
+      "皮"
+    ],
+    "actual_len": 1,
+    "expected_len": 0
+  },
+  {
+    "type": "decomp_anomaly",
+    "char": "舟",
+    "layout": "",
+    "top_level_components": [
+      "舟"
+    ],
+    "actual_len": 1,
+    "expected_len": 0
+  },
+  {
+    "type": "decomp_anomaly",
+    "char": "州",
+    "layout": "",
+    "top_level_components": [
+      "州"
+    ],
+    "actual_len": 1,
+    "expected_len": 0
+  },
+  {
+    "type": "decomp_anomaly",
+    "char": "未",
+    "layout": "",
+    "top_level_components": [
+      "未"
+    ],
+    "actual_len": 1,
+    "expected_len": 0
+  },
+  {
+    "type": "decomp_anomaly",
+    "char": "册",
+    "layout": "",
+    "top_level_components": [
+      "册"
+    ],
+    "actual_len": 1,
+    "expected_len": 0
+  },
+  {
+    "type": "decomp_anomaly",
+    "char": "車",
+    "layout": "",
+    "top_level_components": [
+      "車"
+    ],
+    "actual_len": 1,
+    "expected_len": 0
+  },
+  {
+    "type": "decomp_anomaly",
+    "char": "我",
+    "layout": "",
+    "top_level_components": [
+      "我"
+    ],
+    "actual_len": 1,
+    "expected_len": 0
+  },
+  {
+    "type": "decomp_anomaly",
+    "char": "九",
+    "layout": "",
+    "top_level_components": [
+      "九"
+    ],
+    "actual_len": 1,
+    "expected_len": 0
+  },
+  {
+    "type": "decomp_anomaly",
+    "char": "戊",
+    "layout": "",
+    "top_level_components": [
+      "戊"
+    ],
+    "actual_len": 1,
+    "expected_len": 0
+  },
+  {
+    "type": "decomp_anomaly",
+    "char": "角",
+    "layout": "",
+    "top_level_components": [
+      "角"
+    ],
+    "actual_len": 1,
+    "expected_len": 0
+  },
+  {
+    "type": "decomp_anomaly",
+    "char": "事",
+    "layout": "",
+    "top_level_components": [
+      "事"
+    ],
+    "actual_len": 1,
+    "expected_len": 0
+  },
+  {
+    "type": "decomp_anomaly",
+    "char": "自",
+    "layout": "",
+    "top_level_components": [
+      "自"
+    ],
+    "actual_len": 1,
+    "expected_len": 0
+  },
+  {
+    "type": "decomp_anomaly",
+    "char": "丹",
+    "layout": "",
+    "top_level_components": [
+      "丹"
+    ],
+    "actual_len": 1,
+    "expected_len": 0
+  },
+  {
+    "type": "decomp_anomaly",
+    "char": "巨",
+    "layout": "",
+    "top_level_components": [
+      "巨"
+    ],
+    "actual_len": 1,
+    "expected_len": 0
+  },
+  {
+    "type": "decomp_anomaly",
+    "char": "末",
+    "layout": "",
+    "top_level_components": [
+      "末"
+    ],
+    "actual_len": 1,
+    "expected_len": 0
+  },
+  {
+    "type": "decomp_anomaly",
+    "char": "井",
+    "layout": "",
+    "top_level_components": [
+      "井"
+    ],
+    "actual_len": 1,
+    "expected_len": 0
+  },
+  {
+    "type": "decomp_anomaly",
+    "char": "且",
+    "layout": "",
+    "top_level_components": [
+      "且"
+    ],
+    "actual_len": 1,
+    "expected_len": 0
+  },
+  {
+    "type": "decomp_anomaly",
+    "char": "年",
+    "layout": "",
+    "top_level_components": [
+      "年"
+    ],
+    "actual_len": 1,
+    "expected_len": 0
+  },
+  {
+    "type": "decomp_anomaly",
+    "char": "史",
+    "layout": "",
+    "top_level_components": [
+      "史"
+    ],
+    "actual_len": 1,
+    "expected_len": 0
+  },
+  {
+    "type": "decomp_anomaly",
+    "char": "酉",
+    "layout": "",
+    "top_level_components": [
+      "酉"
+    ],
+    "actual_len": 1,
+    "expected_len": 0
+  },
+  {
+    "type": "decomp_anomaly",
+    "char": "永",
+    "layout": "",
+    "top_level_components": [
+      "永"
+    ],
+    "actual_len": 1,
+    "expected_len": 0
+  },
+  {
+    "type": "decomp_anomaly",
+    "char": "朱",
+    "layout": "",
+    "top_level_components": [
+      "朱"
+    ],
+    "actual_len": 1,
+    "expected_len": 0
+  },
+  {
+    "type": "decomp_anomaly",
+    "char": "言",
+    "layout": "",
+    "top_level_components": [
+      "言"
+    ],
+    "actual_len": 1,
+    "expected_len": 0
+  },
+  {
+    "type": "decomp_anomaly",
+    "char": "凸",
+    "layout": "",
+    "top_level_components": [
+      "凸"
+    ],
+    "actual_len": 1,
+    "expected_len": 0
+  },
+  {
+    "type": "decomp_anomaly",
+    "char": "牛",
+    "layout": "",
+    "top_level_components": [
+      "牛"
+    ],
+    "actual_len": 1,
+    "expected_len": 0
+  },
+  {
+    "type": "decomp_anomaly",
+    "char": "束",
+    "layout": "",
+    "top_level_components": [
+      "束"
+    ],
+    "actual_len": 1,
+    "expected_len": 0
+  },
+  {
+    "type": "decomp_anomaly",
+    "char": "子",
+    "layout": "",
+    "top_level_components": [
+      "子"
+    ],
+    "actual_len": 1,
+    "expected_len": 0
+  },
+  {
+    "type": "decomp_anomaly",
+    "char": "龜",
+    "layout": "",
+    "top_level_components": [
+      "龜"
+    ],
+    "actual_len": 1,
+    "expected_len": 0
+  },
+  {
+    "type": "decomp_anomaly",
+    "char": "才",
+    "layout": "",
+    "top_level_components": [
+      "才"
+    ],
+    "actual_len": 1,
+    "expected_len": 0
+  },
+  {
+    "type": "decomp_anomaly",
+    "char": "臼",
+    "layout": "",
+    "top_level_components": [
+      "臼"
+    ],
+    "actual_len": 1,
+    "expected_len": 0
+  },
+  {
+    "type": "decomp_anomaly",
+    "char": "日",
+    "layout": "",
+    "top_level_components": [
+      "日"
+    ],
+    "actual_len": 1,
+    "expected_len": 0
+  },
+  {
+    "type": "decomp_anomaly",
+    "char": "東",
+    "layout": "",
+    "top_level_components": [
+      "東"
+    ],
+    "actual_len": 1,
+    "expected_len": 0
+  },
+  {
+    "type": "decomp_anomaly",
+    "char": "瓜",
+    "layout": "",
+    "top_level_components": [
+      "瓜"
+    ],
+    "actual_len": 1,
+    "expected_len": 0
+  },
+  {
+    "type": "decomp_anomaly",
+    "char": "手",
+    "layout": "",
+    "top_level_components": [
+      "手"
+    ],
+    "actual_len": 1,
+    "expected_len": 0
+  },
+  {
+    "type": "decomp_anomaly",
+    "char": "几",
+    "layout": "",
+    "top_level_components": [
+      "几"
+    ],
+    "actual_len": 1,
+    "expected_len": 0
+  },
+  {
+    "type": "decomp_anomaly",
+    "char": "身",
+    "layout": "",
+    "top_level_components": [
+      "身"
+    ],
+    "actual_len": 1,
+    "expected_len": 0
+  },
+  {
+    "type": "decomp_anomaly",
+    "char": "女",
+    "layout": "",
+    "top_level_components": [
+      "女"
+    ],
+    "actual_len": 1,
+    "expected_len": 0
+  },
+  {
+    "type": "decomp_anomaly",
+    "char": "欠",
+    "layout": "",
+    "top_level_components": [
+      "欠"
+    ],
+    "actual_len": 1,
+    "expected_len": 0
+  },
+  {
+    "type": "decomp_anomaly",
+    "char": "乙",
+    "layout": "",
+    "top_level_components": [
+      "乙"
+    ],
+    "actual_len": 1,
+    "expected_len": 0
+  },
+  {
+    "type": "decomp_anomaly",
+    "char": "隶",
+    "layout": "",
+    "top_level_components": [
+      "隶"
+    ],
+    "actual_len": 1,
+    "expected_len": 0
+  },
+  {
+    "type": "decomp_anomaly",
+    "char": "申",
+    "layout": "",
+    "top_level_components": [
+      "申"
+    ],
+    "actual_len": 1,
+    "expected_len": 0
+  },
+  {
+    "type": "decomp_anomaly",
+    "char": "人",
+    "layout": "",
+    "top_level_components": [
+      "人"
+    ],
+    "actual_len": 1,
+    "expected_len": 0
+  },
+  {
+    "type": "decomp_anomaly",
+    "char": "己",
+    "layout": "",
+    "top_level_components": [
+      "己"
+    ],
+    "actual_len": 1,
+    "expected_len": 0
+  },
+  {
+    "type": "decomp_anomaly",
+    "char": "示",
+    "layout": "",
+    "top_level_components": [
+      "示"
+    ],
+    "actual_len": 1,
+    "expected_len": 0
+  },
+  {
+    "type": "decomp_anomaly",
+    "char": "頁",
+    "layout": "",
+    "top_level_components": [
+      "頁"
+    ],
+    "actual_len": 1,
+    "expected_len": 0
+  },
+  {
+    "type": "decomp_anomaly",
+    "char": "久",
+    "layout": "",
+    "top_level_components": [
+      "久"
+    ],
+    "actual_len": 1,
+    "expected_len": 0
+  },
+  {
+    "type": "decomp_anomaly",
+    "char": "工",
+    "layout": "",
+    "top_level_components": [
+      "工"
+    ],
+    "actual_len": 1,
+    "expected_len": 0
+  },
+  {
+    "type": "decomp_anomaly",
+    "char": "丘",
+    "layout": "",
+    "top_level_components": [
+      "丘"
+    ],
+    "actual_len": 1,
+    "expected_len": 0
+  },
+  {
+    "type": "decomp_anomaly",
+    "char": "豆",
+    "layout": "",
+    "top_level_components": [
+      "豆"
+    ],
+    "actual_len": 1,
+    "expected_len": 0
+  },
+  {
+    "type": "decomp_anomaly",
+    "char": "尺",
+    "layout": "",
+    "top_level_components": [
+      "尺"
+    ],
+    "actual_len": 1,
+    "expected_len": 0
+  },
+  {
+    "type": "decomp_anomaly",
+    "char": "也",
+    "layout": "",
+    "top_level_components": [
+      "也"
+    ],
+    "actual_len": 1,
+    "expected_len": 0
+  },
+  {
+    "type": "decomp_anomaly",
+    "char": "重",
+    "layout": "",
+    "top_level_components": [
+      "重"
+    ],
+    "actual_len": 1,
+    "expected_len": 0
+  },
+  {
+    "type": "decomp_anomaly",
+    "char": "禹",
+    "layout": "",
+    "top_level_components": [
+      "禹"
+    ],
+    "actual_len": 1,
+    "expected_len": 0
+  },
+  {
+    "type": "decomp_anomaly",
+    "char": "母",
+    "layout": "",
+    "top_level_components": [
+      "母"
+    ],
+    "actual_len": 1,
+    "expected_len": 0
+  },
+  {
+    "type": "decomp_anomaly",
+    "char": "十",
+    "layout": "",
+    "top_level_components": [
+      "十"
+    ],
+    "actual_len": 1,
+    "expected_len": 0
+  },
+  {
+    "type": "decomp_anomaly",
+    "char": "世",
+    "layout": "",
+    "top_level_components": [
+      "世"
+    ],
+    "actual_len": 1,
+    "expected_len": 0
+  },
+  {
+    "type": "decomp_anomaly",
+    "char": "又",
+    "layout": "",
+    "top_level_components": [
+      "又"
+    ],
+    "actual_len": 1,
+    "expected_len": 0
+  },
+  {
+    "type": "decomp_anomaly",
+    "char": "心",
+    "layout": "",
+    "top_level_components": [
+      "心"
+    ],
+    "actual_len": 1,
+    "expected_len": 0
+  },
+  {
+    "type": "decomp_anomaly",
+    "char": "牙",
+    "layout": "",
+    "top_level_components": [
+      "牙"
+    ],
+    "actual_len": 1,
+    "expected_len": 0
+  },
+  {
+    "type": "decomp_anomaly",
+    "char": "本",
+    "layout": "",
+    "top_level_components": [
+      "本"
+    ],
+    "actual_len": 1,
+    "expected_len": 0
+  },
+  {
+    "type": "decomp_anomaly",
+    "char": "巴",
+    "layout": "",
+    "top_level_components": [
+      "巴"
+    ],
+    "actual_len": 1,
+    "expected_len": 0
+  },
+  {
+    "type": "decomp_anomaly",
+    "char": "肉",
+    "layout": "",
+    "top_level_components": [
+      "肉"
+    ],
+    "actual_len": 1,
+    "expected_len": 0
+  },
+  {
+    "type": "decomp_anomaly",
+    "char": "目",
+    "layout": "",
+    "top_level_components": [
+      "目"
+    ],
+    "actual_len": 1,
+    "expected_len": 0
+  },
+  {
+    "type": "decomp_anomaly",
+    "char": "瓦",
+    "layout": "",
+    "top_level_components": [
+      "瓦"
+    ],
+    "actual_len": 1,
+    "expected_len": 0
+  },
+  {
+    "type": "decomp_anomaly",
+    "char": "发",
+    "layout": "",
+    "top_level_components": [
+      "发"
+    ],
+    "actual_len": 1,
+    "expected_len": 0
+  },
+  {
+    "type": "decomp_anomaly",
+    "char": "爪",
+    "layout": "",
+    "top_level_components": [
+      "爪"
+    ],
+    "actual_len": 1,
+    "expected_len": 0
+  },
+  {
+    "type": "decomp_anomaly",
+    "char": "熏",
+    "layout": "",
+    "top_level_components": [
+      "熏"
+    ],
+    "actual_len": 1,
+    "expected_len": 0
+  },
+  {
+    "type": "decomp_anomaly",
+    "char": "革",
+    "layout": "",
+    "top_level_components": [
+      "革"
+    ],
+    "actual_len": 1,
+    "expected_len": 0
+  },
+  {
+    "type": "decomp_anomaly",
+    "char": "生",
+    "layout": "",
+    "top_level_components": [
+      "生"
+    ],
+    "actual_len": 1,
+    "expected_len": 0
+  },
+  {
+    "type": "decomp_anomaly",
+    "char": "月",
+    "layout": "",
+    "top_level_components": [
+      "月"
+    ],
+    "actual_len": 1,
+    "expected_len": 0
+  },
+  {
+    "type": "decomp_anomaly",
+    "char": "由",
+    "layout": "",
+    "top_level_components": [
+      "由"
+    ],
+    "actual_len": 1,
+    "expected_len": 0
+  },
+  {
+    "type": "decomp_anomaly",
+    "char": "白",
+    "layout": "",
+    "top_level_components": [
+      "白"
+    ],
+    "actual_len": 1,
+    "expected_len": 0
+  },
+  {
+    "type": "decomp_anomaly",
+    "char": "禺",
+    "layout": "",
+    "top_level_components": [
+      "禺"
+    ],
+    "actual_len": 1,
+    "expected_len": 0
+  },
+  {
+    "type": "decomp_anomaly",
+    "char": "曲",
+    "layout": "",
+    "top_level_components": [
+      "曲"
+    ],
+    "actual_len": 1,
+    "expected_len": 0
+  },
+  {
+    "type": "decomp_anomaly",
+    "char": "寸",
+    "layout": "",
+    "top_level_components": [
+      "寸"
+    ],
+    "actual_len": 1,
+    "expected_len": 0
+  },
+  {
+    "type": "decomp_anomaly",
+    "char": "门",
+    "layout": "",
+    "top_level_components": [
+      "门"
+    ],
+    "actual_len": 1,
+    "expected_len": 0
+  },
+  {
+    "type": "decomp_anomaly",
+    "char": "央",
+    "layout": "",
+    "top_level_components": [
+      "央"
+    ],
+    "actual_len": 1,
+    "expected_len": 0
+  },
+  {
+    "type": "decomp_anomaly",
+    "char": "及",
+    "layout": "",
+    "top_level_components": [
+      "及"
+    ],
+    "actual_len": 1,
+    "expected_len": 0
+  },
+  {
+    "type": "decomp_anomaly",
+    "char": "木",
+    "layout": "",
+    "top_level_components": [
+      "木"
+    ],
+    "actual_len": 1,
+    "expected_len": 0
+  },
+  {
+    "type": "decomp_anomaly",
+    "char": "入",
+    "layout": "",
+    "top_level_components": [
+      "入"
+    ],
+    "actual_len": 1,
+    "expected_len": 0
+  }
+]

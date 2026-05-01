@@ -4,11 +4,14 @@
 # Keep gitignore itself.
 !.gitignore
 
+# Root Python files only.
+!/*.py
+
 # Upload all files under adapter_dev.
 !adapter_dev/
 !adapter_dev/**
 
-# Keep only selected subfolders in retrieval_data_prepare.
+# Keep selected content in retrieval_data_prepare.
 !retrieval_data_prepare/
 retrieval_data_prepare/*
 !retrieval_data_prepare/assets/
@@ -17,6 +20,15 @@ retrieval_data_prepare/*
 !retrieval_data_prepare/bank/**
 !retrieval_data_prepare/pipeline/
 !retrieval_data_prepare/pipeline/**
+!retrieval_data_prepare/outputs/
+!retrieval_data_prepare/outputs/**
+!retrieval_data_prepare/cases/
+retrieval_data_prepare/cases/*
+!retrieval_data_prepare/cases/style_wxz0322.jpg
+!retrieval_data_prepare/cases/style_wxz1175.jpg
+!retrieval_data_prepare/cases/wxz_gt_chars.csv
+!retrieval_data_prepare/random_vs_structural_summary.md
+!retrieval_data_prepare/PHASE2_RECON.md
 
 # Keep selected root markdown files.
 !planA.md
