@@ -1,0 +1,25 @@
+# Ignore everything by default.
+*
+
+# Keep gitignore itself.
+!.gitignore
+
+# Upload all files under adapter_dev.
+!adapter_dev/
+!adapter_dev/**
+
+# Keep only selected subfolders in retrieval_data_prepare.
+!retrieval_data_prepare/
+retrieval_data_prepare/*
+!retrieval_data_prepare/assets/
+!retrieval_data_prepare/assets/**
+!retrieval_data_prepare/bank/
+!retrieval_data_prepare/bank/**
+!retrieval_data_prepare/pipeline/
+!retrieval_data_prepare/pipeline/**
+
+# Keep selected root markdown files.
+!planA.md
+!planB.md
+!idea.md
+!draft_report.md

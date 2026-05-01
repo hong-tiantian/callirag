@@ -1,0 +1,13 @@
+# 本地补丁：与 ids_full.txt 合并时，本文件中的行会覆盖全量库同字条目。
+# 全量库：在 rag_quick 目录执行
+#   python rag_quick/decompose.py --fetch-full
+# 会生成 ids_full.txt（CJKVI）；之后直接运行 decompose.py 即可对所有能拆的字递归拆到底。
+# 片段来源参考：https://github.com/cjkvi/cjkvi-ids
+U+8D62	赢	⿱吂⿲月贝凡
+U+74A8	璨	⿰王粲
+U+9707	霆	⿱雨廷
+U+9CDE	鳞	⿰鱼粦
+U+5F4E	彎	⿱䜌弓
+U+763B	瘻	⿸疒婁
+U+79E6	秦	⿱𡗗禾
+U+8AE2	諢	⿰言軍
