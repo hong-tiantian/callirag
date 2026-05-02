@@ -1,3 +1,0 @@
-[submodule "adapter_dev/FontDiffuser"]
-	path = adapter_dev/FontDiffuser
-	url = git@github.com:hong-tiantian/FontDiffuser.git

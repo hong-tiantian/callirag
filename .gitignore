@@ -1,37 +1,49 @@
-# Ignore everything by default.
-*
+# Images: default ignore, allow-list below
+*.png
+*.jpg
+*.jpeg
+*.gif
+*.bmp
 
-# Keep gitignore itself.
-!.gitignore
+# Allow style ref + GT case images
+!retrieval_data_prepare/cases/style_*.jpg
+!retrieval_data_prepare/cases/gt/*.jpg
+!retrieval_data_prepare/cases/gt/*.png
 
-# Root Python files only.
-!/*.py
+# Big generation outputs
+retrieval_data_prepare/outputs/baseline/
+retrieval_data_prepare/outputs/blind/
+retrieval_data_prepare/outputs/comparison/
 
-# Upload all files under adapter_dev.
-!adapter_dev/
-!adapter_dev/**
+# Bulk WXZ content
+retrieval_data_prepare/cases/content/
 
-# Keep selected content in retrieval_data_prepare.
-!retrieval_data_prepare/
-retrieval_data_prepare/*
-!retrieval_data_prepare/assets/
-!retrieval_data_prepare/assets/**
-!retrieval_data_prepare/bank/
-!retrieval_data_prepare/bank/**
-!retrieval_data_prepare/pipeline/
-!retrieval_data_prepare/pipeline/**
-!retrieval_data_prepare/outputs/
-!retrieval_data_prepare/outputs/**
-!retrieval_data_prepare/cases/
-retrieval_data_prepare/cases/*
-!retrieval_data_prepare/cases/style_wxz0322.jpg
-!retrieval_data_prepare/cases/style_wxz1175.jpg
-!retrieval_data_prepare/cases/wxz_gt_chars.csv
-!retrieval_data_prepare/random_vs_structural_summary.md
-!retrieval_data_prepare/PHASE2_RECON.md
+# Pristine reference clones (不修改，需要时各机器自行 clone, 见 SYNC.md)
+baseline_clean/
 
-# Keep selected root markdown files.
-!planA.md
-!planB.md
-!idea.md
-!draft_report.md
+# Python
+__pycache__/
+*.pyc
+*.pyo
+.pytest_cache/
+
+# Conda / installer
+miniconda3/
+*.exe
+
+# External
+cjkvi-ids/
+data/
+
+# Editor
+.vscode/
+.idea/
+*.swp
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Tmp diagnostic scripts (project root)
+tmp_diag_*.py
+tmp_baseline_*.py
