@@ -1,0 +1,16 @@
+﻿case_id,target_char,content_path,content_exists,baseline_single_path,baseline_single_exists,baseline_with_cs_path,baseline_with_cs_exists
+0020,騫,callirag/cases/content/0020.jpg,yes,callirag/cases/baseline/0020/out_single.png,yes,callirag/cases/baseline/0020/out_with_cs.jpg,yes
+0021,癱,callirag/cases/content/0021.jpg,yes,callirag/cases/baseline/0021/out_single.png,yes,callirag/cases/baseline/0021/out_with_cs.jpg,yes
+0023,霆,callirag/cases/content/0023.jpg,yes,callirag/cases/baseline/0023/out_single.png,yes,callirag/cases/baseline/0023/out_with_cs.jpg,yes
+0053,鳞,callirag/cases/content/0053.jpg,yes,callirag/cases/baseline/0053/out_single.png,yes,callirag/cases/baseline/0053/out_with_cs.jpg,yes
+1249,變,callirag/cases/content/1249.jpg,yes,callirag/cases/baseline/1249/out_single.png,yes,callirag/cases/baseline/1249/out_with_cs.jpg,yes
+1598,鱸,callirag/cases/content/1598.jpg,yes,callirag/cases/baseline/1598/out_single.png,yes,callirag/cases/baseline/1598/out_with_cs.jpg,yes
+2089,衢,callirag/cases/content/2089.jpg,yes,callirag/cases/baseline/2089/out_single.png,yes,callirag/cases/baseline/2089/out_with_cs.jpg,yes
+2281,矗,callirag/cases/content/2281.jpg,yes,callirag/cases/baseline/2281/out_single.png,yes,callirag/cases/baseline/2281/out_with_cs.jpg,yes
+2354,鑽,callirag/cases/content/2354.jpg,yes,callirag/cases/baseline/2354/out_single.png,yes,callirag/cases/baseline/2354/out_with_cs.jpg,yes
+2475,麟,callirag/cases/content/2475.jpg,yes,callirag/cases/baseline/2475/out_single.png,yes,callirag/cases/baseline/2475/out_with_cs.jpg,yes
+3252,驢,callirag/cases/content/3252.jpg,yes,callirag/cases/baseline/3252/out_single.png,yes,callirag/cases/baseline/3252/out_with_cs.jpg,yes
+3273,赢,callirag/cases/content/3273.jpg,yes,callirag/cases/baseline/3273/out_single.png,yes,callirag/cases/baseline/3273/out_with_cs.jpg,yes
+3323,諢,callirag/cases/content/3323.jpg,yes,callirag/cases/baseline/3323/out_single.png,yes,callirag/cases/baseline/3323/out_with_cs.jpg,yes
+4118,囊,callirag/cases/content/4118.jpg,yes,callirag/cases/baseline/4118/out_single.png,yes,callirag/cases/baseline/4118/out_with_cs.jpg,yes
+5582,鑫,callirag/cases/content/5582.jpg,yes,callirag/cases/baseline/5582/out_single.png,yes,callirag/cases/baseline/5582/out_with_cs.jpg,yes

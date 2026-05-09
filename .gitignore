@@ -1,0 +1,51 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+
+# Local environments
+.venv/
+venv/
+env/
+.env
+.env.*
+
+# OS/editor files
+.DS_Store
+Thumbs.db
+.idea/
+.vscode/
+
+# Logs and temp files
+*.log
+*.tmp
+*.bak
+
+# Large/local image assets
+cases/content/
+cases/baseline/
+cases/gt/
+assets/
+*.png
+*.jpg
+*.jpeg
+*.webp
+
+# Model/checkpoint artifacts
+ckpt/
+checkpoints/
+*.ckpt
+*.pt
+*.pth
+*.safetensors
+
+# Generated or legacy experiment outputs
+outputs/legacy/
+outputs/**/generation_outputs/
+outputs/**/blind_images/
+
+# Local data dumps
+data/

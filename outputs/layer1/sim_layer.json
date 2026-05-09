@@ -1,0 +1,1288 @@
+{
+  "騫": [
+    {
+      "rank": 1,
+      "bank_id": "wxz_2995",
+      "character": "賽",
+      "wxz_path": "/d/htt/data/image/train/wxz/2995.jpg",
+      "score": 13.5,
+      "layout_match": true,
+      "shared_components": [
+        "井",
+        "八",
+        "宀"
+      ],
+      "shared_top_level_components": [
+        "𡨄"
+      ],
+      "stroke_count_gap": 3,
+      "reason": "shared_non_trivial=['井', '八', '宀']; shared_top_level=['𡨄']; layout_match=True; stroke_gap=3"
+    },
+    {
+      "rank": 2,
+      "bank_id": "wxz_5891",
+      "character": "寒",
+      "wxz_path": "/d/htt/data/image/test/wxz/5891.jpg",
+      "score": 13.0,
+      "layout_match": true,
+      "shared_components": [
+        "井",
+        "八",
+        "宀"
+      ],
+      "shared_top_level_components": [
+        "𡨄"
+      ],
+      "stroke_count_gap": 8,
+      "reason": "shared_non_trivial=['井', '八', '宀']; shared_top_level=['𡨄']; layout_match=True; stroke_gap=8"
+    },
+    {
+      "rank": 3,
+      "bank_id": "wxz_0751",
+      "character": "搴",
+      "wxz_path": "/d/htt/data/image/train/wxz/0751.jpg",
+      "score": 13.0,
+      "layout_match": true,
+      "shared_components": [
+        "井",
+        "八",
+        "宀"
+      ],
+      "shared_top_level_components": [
+        "𡨄"
+      ],
+      "stroke_count_gap": 6,
+      "reason": "shared_non_trivial=['井', '八', '宀']; shared_top_level=['𡨄']; layout_match=True; stroke_gap=6"
+    },
+    {
+      "rank": 4,
+      "bank_id": "wxz_4564",
+      "character": "塞",
+      "wxz_path": "/d/htt/data/image/train/wxz/4564.jpg",
+      "score": 13.0,
+      "layout_match": true,
+      "shared_components": [
+        "井",
+        "八",
+        "宀"
+      ],
+      "shared_top_level_components": [
+        "𡨄"
+      ],
+      "stroke_count_gap": 7,
+      "reason": "shared_non_trivial=['井', '八', '宀']; shared_top_level=['𡨄']; layout_match=True; stroke_gap=7"
+    },
+    {
+      "rank": 5,
+      "bank_id": "wxz_4590",
+      "character": "寨",
+      "wxz_path": "/d/htt/data/image/train/wxz/4590.jpg",
+      "score": 13.0,
+      "layout_match": true,
+      "shared_components": [
+        "井",
+        "八",
+        "宀"
+      ],
+      "shared_top_level_components": [
+        "𡨄"
+      ],
+      "stroke_count_gap": 6,
+      "reason": "shared_non_trivial=['井', '八', '宀']; shared_top_level=['𡨄']; layout_match=True; stroke_gap=6"
+    }
+  ],
+  "癱": [
+    {
+      "rank": 1,
+      "bank_id": "wxz_3626",
+      "character": "灘",
+      "wxz_path": "/d/htt/data/image/train/wxz/3626.jpg",
+      "score": 18.0,
+      "layout_match": false,
+      "shared_components": [
+        "二",
+        "人",
+        "口",
+        "廿",
+        "隹"
+      ],
+      "shared_top_level_components": [
+        "難"
+      ],
+      "stroke_count_gap": 2,
+      "reason": "shared_non_trivial=['二', '人', '口', '廿', '隹']; shared_top_level=['難']; layout_match=False; stroke_gap=2"
+    },
+    {
+      "rank": 2,
+      "bank_id": "wxz_5837",
+      "character": "儺",
+      "wxz_path": "/d/htt/data/image/test/wxz/5837.jpg",
+      "score": 17.5,
+      "layout_match": false,
+      "shared_components": [
+        "二",
+        "人",
+        "口",
+        "廿",
+        "隹"
+      ],
+      "shared_top_level_components": [
+        "難"
+      ],
+      "stroke_count_gap": 3,
+      "reason": "shared_non_trivial=['二', '人', '口', '廿', '隹']; shared_top_level=['難']; layout_match=False; stroke_gap=3"
+    },
+    {
+      "rank": 3,
+      "bank_id": "wxz_6516",
+      "character": "難",
+      "wxz_path": "/d/htt/data/image/test/wxz/6516.jpg",
+      "score": 15.5,
+      "layout_match": false,
+      "shared_components": [
+        "二",
+        "人",
+        "口",
+        "廿",
+        "隹"
+      ],
+      "shared_top_level_components": [],
+      "stroke_count_gap": 5,
+      "reason": "shared_non_trivial=['二', '人', '口', '廿', '隹']; shared_top_level=[]; layout_match=False; stroke_gap=5"
+    },
+    {
+      "rank": 4,
+      "bank_id": "wxz_0980",
+      "character": "痴",
+      "wxz_path": "/d/htt/data/image/train/wxz/0980.jpg",
+      "score": 13.0,
+      "layout_match": true,
+      "shared_components": [
+        "人",
+        "口",
+        "疒"
+      ],
+      "shared_top_level_components": [
+        "疒"
+      ],
+      "stroke_count_gap": 11,
+      "reason": "shared_non_trivial=['人', '口', '疒']; shared_top_level=['疒']; layout_match=True; stroke_gap=11"
+    },
+    {
+      "rank": 5,
+      "bank_id": "wxz_1879",
+      "character": "漢",
+      "wxz_path": "/d/htt/data/image/train/wxz/1879.jpg",
+      "score": 12.0,
+      "layout_match": false,
+      "shared_components": [
+        "二",
+        "人",
+        "口",
+        "廿"
+      ],
+      "shared_top_level_components": [],
+      "stroke_count_gap": 10,
+      "reason": "shared_non_trivial=['二', '人', '口', '廿']; shared_top_level=[]; layout_match=False; stroke_gap=10"
+    }
+  ],
+  "霆": [
+    {
+      "rank": 1,
+      "bank_id": "wxz_5623",
+      "character": "零",
+      "wxz_path": "/d/htt/data/image/test/wxz/5623.jpg",
+      "score": 8.0,
+      "layout_match": true,
+      "shared_components": [
+        "雨"
+      ],
+      "shared_top_level_components": [
+        "雨"
+      ],
+      "stroke_count_gap": 1,
+      "reason": "shared_non_trivial=['雨']; shared_top_level=['雨']; layout_match=True; stroke_gap=1"
+    },
+    {
+      "rank": 2,
+      "bank_id": "wxz_6027",
+      "character": "霉",
+      "wxz_path": "/d/htt/data/image/test/wxz/6027.jpg",
+      "score": 8.0,
+      "layout_match": true,
+      "shared_components": [
+        "雨"
+      ],
+      "shared_top_level_components": [
+        "雨"
+      ],
+      "stroke_count_gap": 1,
+      "reason": "shared_non_trivial=['雨']; shared_top_level=['雨']; layout_match=True; stroke_gap=1"
+    },
+    {
+      "rank": 3,
+      "bank_id": "wxz_6222",
+      "character": "霏",
+      "wxz_path": "/d/htt/data/image/test/wxz/6222.jpg",
+      "score": 8.0,
+      "layout_match": true,
+      "shared_components": [
+        "雨"
+      ],
+      "shared_top_level_components": [
+        "雨"
+      ],
+      "stroke_count_gap": 2,
+      "reason": "shared_non_trivial=['雨']; shared_top_level=['雨']; layout_match=True; stroke_gap=2"
+    },
+    {
+      "rank": 4,
+      "bank_id": "wxz_1034",
+      "character": "雷",
+      "wxz_path": "/d/htt/data/image/train/wxz/1034.jpg",
+      "score": 8.0,
+      "layout_match": true,
+      "shared_components": [
+        "雨"
+      ],
+      "shared_top_level_components": [
+        "雨"
+      ],
+      "stroke_count_gap": 1,
+      "reason": "shared_non_trivial=['雨']; shared_top_level=['雨']; layout_match=True; stroke_gap=1"
+    },
+    {
+      "rank": 5,
+      "bank_id": "wxz_1107",
+      "character": "霖",
+      "wxz_path": "/d/htt/data/image/train/wxz/1107.jpg",
+      "score": 8.0,
+      "layout_match": true,
+      "shared_components": [
+        "雨"
+      ],
+      "shared_top_level_components": [
+        "雨"
+      ],
+      "stroke_count_gap": 2,
+      "reason": "shared_non_trivial=['雨']; shared_top_level=['雨']; layout_match=True; stroke_gap=2"
+    }
+  ],
+  "鳞": [
+    {
+      "rank": 1,
+      "bank_id": "wxz_0915",
+      "character": "憐",
+      "wxz_path": "/d/htt/data/image/train/wxz/0915.jpg",
+      "score": 10.5,
+      "layout_match": true,
+      "shared_components": [
+        "㐄",
+        "米"
+      ],
+      "shared_top_level_components": [
+        "粦"
+      ],
+      "stroke_count_gap": 5,
+      "reason": "shared_non_trivial=['㐄', '米']; shared_top_level=['粦']; layout_match=True; stroke_gap=5"
+    },
+    {
+      "rank": 2,
+      "bank_id": "wxz_2475",
+      "character": "麟",
+      "wxz_path": "/d/htt/data/image/train/wxz/2475.jpg",
+      "score": 10.5,
+      "layout_match": true,
+      "shared_components": [
+        "㐄",
+        "米"
+      ],
+      "shared_top_level_components": [
+        "粦"
+      ],
+      "stroke_count_gap": 3,
+      "reason": "shared_non_trivial=['㐄', '米']; shared_top_level=['粦']; layout_match=True; stroke_gap=3"
+    },
+    {
+      "rank": 3,
+      "bank_id": "wxz_2636",
+      "character": "磷",
+      "wxz_path": "/d/htt/data/image/train/wxz/2636.jpg",
+      "score": 10.5,
+      "layout_match": true,
+      "shared_components": [
+        "㐄",
+        "米"
+      ],
+      "shared_top_level_components": [
+        "粦"
+      ],
+      "stroke_count_gap": 3,
+      "reason": "shared_non_trivial=['㐄', '米']; shared_top_level=['粦']; layout_match=True; stroke_gap=3"
+    },
+    {
+      "rank": 4,
+      "bank_id": "wxz_3849",
+      "character": "鄰",
+      "wxz_path": "/d/htt/data/image/train/wxz/3849.jpg",
+      "score": 10.0,
+      "layout_match": true,
+      "shared_components": [
+        "㐄",
+        "米"
+      ],
+      "shared_top_level_components": [
+        "粦"
+      ],
+      "stroke_count_gap": 6,
+      "reason": "shared_non_trivial=['㐄', '米']; shared_top_level=['粦']; layout_match=True; stroke_gap=6"
+    },
+    {
+      "rank": 5,
+      "bank_id": "wxz_3284",
+      "character": "遴",
+      "wxz_path": "/d/htt/data/image/train/wxz/3284.jpg",
+      "score": 8.5,
+      "layout_match": false,
+      "shared_components": [
+        "㐄",
+        "米"
+      ],
+      "shared_top_level_components": [
+        "粦"
+      ],
+      "stroke_count_gap": 5,
+      "reason": "shared_non_trivial=['㐄', '米']; shared_top_level=['粦']; layout_match=False; stroke_gap=5"
+    }
+  ],
+  "變": [
+    {
+      "rank": 1,
+      "bank_id": "wxz_6536",
+      "character": "警",
+      "wxz_path": "/d/htt/data/image/test/wxz/6536.jpg",
+      "score": 8.5,
+      "layout_match": true,
+      "shared_components": [
+        "攵",
+        "言"
+      ],
+      "shared_top_level_components": [],
+      "stroke_count_gap": 4,
+      "reason": "shared_non_trivial=['攵', '言']; shared_top_level=[]; layout_match=True; stroke_gap=4"
+    },
+    {
+      "rank": 2,
+      "bank_id": "wxz_6641",
+      "character": "繁",
+      "wxz_path": "/d/htt/data/image/test/wxz/6641.jpg",
+      "score": 8.0,
+      "layout_match": true,
+      "shared_components": [
+        "攵",
+        "糸"
+      ],
+      "shared_top_level_components": [],
+      "stroke_count_gap": 6,
+      "reason": "shared_non_trivial=['攵', '糸']; shared_top_level=[]; layout_match=True; stroke_gap=6"
+    },
+    {
+      "rank": 3,
+      "bank_id": "wxz_0894",
+      "character": "徽",
+      "wxz_path": "/d/htt/data/image/train/wxz/0894.jpg",
+      "score": 6.0,
+      "layout_match": false,
+      "shared_components": [
+        "攵",
+        "糸"
+      ],
+      "shared_top_level_components": [],
+      "stroke_count_gap": 6,
+      "reason": "shared_non_trivial=['攵', '糸']; shared_top_level=[]; layout_match=False; stroke_gap=6"
+    },
+    {
+      "rank": 4,
+      "bank_id": "wxz_5310",
+      "character": "缴",
+      "wxz_path": "/d/htt/data/image/train/wxz/5310.jpg",
+      "score": 6.0,
+      "layout_match": false,
+      "shared_components": [
+        "攵",
+        "糸"
+      ],
+      "shared_top_level_components": [],
+      "stroke_count_gap": 7,
+      "reason": "shared_non_trivial=['攵', '糸']; shared_top_level=[]; layout_match=False; stroke_gap=7"
+    },
+    {
+      "rank": 5,
+      "bank_id": "wxz_5966",
+      "character": "霰",
+      "wxz_path": "/d/htt/data/image/test/wxz/5966.jpg",
+      "score": 5.5,
+      "layout_match": true,
+      "shared_components": [
+        "攵"
+      ],
+      "shared_top_level_components": [],
+      "stroke_count_gap": 3,
+      "reason": "shared_non_trivial=['攵']; shared_top_level=[]; layout_match=True; stroke_gap=3"
+    }
+  ],
+  "鱸": [
+    {
+      "rank": 1,
+      "bank_id": "wxz_3407",
+      "character": "蘇",
+      "wxz_path": "/d/htt/data/image/train/wxz/3407.jpg",
+      "score": 9.0,
+      "layout_match": false,
+      "shared_components": [
+        "灬",
+        "田",
+        "𠂊"
+      ],
+      "shared_top_level_components": [],
+      "stroke_count_gap": 8,
+      "reason": "shared_non_trivial=['灬', '田', '𠂊']; shared_top_level=[]; layout_match=False; stroke_gap=8"
+    },
+    {
+      "rank": 2,
+      "bank_id": "wxz_6189",
+      "character": "鲆",
+      "wxz_path": "/d/htt/data/image/test/wxz/6189.jpg",
+      "score": 8.0,
+      "layout_match": true,
+      "shared_components": [
+        "田",
+        "𠂊"
+      ],
+      "shared_top_level_components": [],
+      "stroke_count_gap": 14,
+      "reason": "shared_non_trivial=['田', '𠂊']; shared_top_level=[]; layout_match=True; stroke_gap=14"
+    },
+    {
+      "rank": 3,
+      "bank_id": "wxz_0015",
+      "character": "璨",
+      "wxz_path": "/d/htt/data/image/train/wxz/0015.jpg",
+      "score": 8.0,
+      "layout_match": true,
+      "shared_components": [
+        "⺊",
+        "𠂊"
+      ],
+      "shared_top_level_components": [],
+      "stroke_count_gap": 10,
+      "reason": "shared_non_trivial=['⺊', '𠂊']; shared_top_level=[]; layout_match=True; stroke_gap=10"
+    },
+    {
+      "rank": 4,
+      "bank_id": "wxz_0053",
+      "character": "鳞",
+      "wxz_path": "/d/htt/data/image/train/wxz/0053.jpg",
+      "score": 8.0,
+      "layout_match": true,
+      "shared_components": [
+        "田",
+        "𠂊"
+      ],
+      "shared_top_level_components": [],
+      "stroke_count_gap": 7,
+      "reason": "shared_non_trivial=['田', '𠂊']; shared_top_level=[]; layout_match=True; stroke_gap=7"
+    },
+    {
+      "rank": 5,
+      "bank_id": "wxz_0256",
+      "character": "鲷",
+      "wxz_path": "/d/htt/data/image/train/wxz/0256.jpg",
+      "score": 8.0,
+      "layout_match": true,
+      "shared_components": [
+        "田",
+        "𠂊"
+      ],
+      "shared_top_level_components": [],
+      "stroke_count_gap": 11,
+      "reason": "shared_non_trivial=['田', '𠂊']; shared_top_level=[]; layout_match=True; stroke_gap=11"
+    }
+  ],
+  "衢": [
+    {
+      "rank": 1,
+      "bank_id": "wxz_1194",
+      "character": "衍",
+      "wxz_path": "/d/htt/data/image/train/wxz/1194.jpg",
+      "score": 12.0,
+      "layout_match": true,
+      "shared_components": [
+        "丁",
+        "彳"
+      ],
+      "shared_top_level_components": [
+        "亍",
+        "彳"
+      ],
+      "stroke_count_gap": 15,
+      "reason": "shared_non_trivial=['丁', '彳']; shared_top_level=['亍', '彳']; layout_match=True; stroke_gap=15"
+    },
+    {
+      "rank": 2,
+      "bank_id": "wxz_2257",
+      "character": "衡",
+      "wxz_path": "/d/htt/data/image/train/wxz/2257.jpg",
+      "score": 12.0,
+      "layout_match": true,
+      "shared_components": [
+        "丁",
+        "彳"
+      ],
+      "shared_top_level_components": [
+        "亍",
+        "彳"
+      ],
+      "stroke_count_gap": 8,
+      "reason": "shared_non_trivial=['丁', '彳']; shared_top_level=['亍', '彳']; layout_match=True; stroke_gap=8"
+    },
+    {
+      "rank": 3,
+      "bank_id": "wxz_2512",
+      "character": "街",
+      "wxz_path": "/d/htt/data/image/train/wxz/2512.jpg",
+      "score": 12.0,
+      "layout_match": true,
+      "shared_components": [
+        "丁",
+        "彳"
+      ],
+      "shared_top_level_components": [
+        "亍",
+        "彳"
+      ],
+      "stroke_count_gap": 12,
+      "reason": "shared_non_trivial=['丁', '彳']; shared_top_level=['亍', '彳']; layout_match=True; stroke_gap=12"
+    },
+    {
+      "rank": 4,
+      "bank_id": "wxz_2566",
+      "character": "衡",
+      "wxz_path": "/d/htt/data/image/train/wxz/2566.jpg",
+      "score": 12.0,
+      "layout_match": true,
+      "shared_components": [
+        "丁",
+        "彳"
+      ],
+      "shared_top_level_components": [
+        "亍",
+        "彳"
+      ],
+      "stroke_count_gap": 8,
+      "reason": "shared_non_trivial=['丁', '彳']; shared_top_level=['亍', '彳']; layout_match=True; stroke_gap=8"
+    },
+    {
+      "rank": 5,
+      "bank_id": "wxz_3132",
+      "character": "衛",
+      "wxz_path": "/d/htt/data/image/train/wxz/3132.jpg",
+      "score": 12.0,
+      "layout_match": true,
+      "shared_components": [
+        "丁",
+        "彳"
+      ],
+      "shared_top_level_components": [
+        "亍",
+        "彳"
+      ],
+      "stroke_count_gap": 9,
+      "reason": "shared_non_trivial=['丁', '彳']; shared_top_level=['亍', '彳']; layout_match=True; stroke_gap=9"
+    }
+  ],
+  "矗": [
+    {
+      "rank": 1,
+      "bank_id": "wxz_5063",
+      "character": "置",
+      "wxz_path": "/d/htt/data/image/train/wxz/5063.jpg",
+      "score": 10.0,
+      "layout_match": true,
+      "shared_components": [
+        "且",
+        "十"
+      ],
+      "shared_top_level_components": [
+        "直"
+      ],
+      "stroke_count_gap": 11,
+      "reason": "shared_non_trivial=['且', '十']; shared_top_level=['直']; layout_match=True; stroke_gap=11"
+    },
+    {
+      "rank": 2,
+      "bank_id": "wxz_5468",
+      "character": "植",
+      "wxz_path": "/d/htt/data/image/test/wxz/5468.jpg",
+      "score": 8.0,
+      "layout_match": false,
+      "shared_components": [
+        "且",
+        "十"
+      ],
+      "shared_top_level_components": [
+        "直"
+      ],
+      "stroke_count_gap": 12,
+      "reason": "shared_non_trivial=['且', '十']; shared_top_level=['直']; layout_match=False; stroke_gap=12"
+    },
+    {
+      "rank": 3,
+      "bank_id": "wxz_5509",
+      "character": "值",
+      "wxz_path": "/d/htt/data/image/test/wxz/5509.jpg",
+      "score": 8.0,
+      "layout_match": false,
+      "shared_components": [
+        "且",
+        "十"
+      ],
+      "shared_top_level_components": [
+        "直"
+      ],
+      "stroke_count_gap": 14,
+      "reason": "shared_non_trivial=['且', '十']; shared_top_level=['直']; layout_match=False; stroke_gap=14"
+    },
+    {
+      "rank": 4,
+      "bank_id": "wxz_6173",
+      "character": "真",
+      "wxz_path": "/d/htt/data/image/test/wxz/6173.jpg",
+      "score": 8.0,
+      "layout_match": true,
+      "shared_components": [
+        "且",
+        "十"
+      ],
+      "shared_top_level_components": [],
+      "stroke_count_gap": 14,
+      "reason": "shared_non_trivial=['且', '十']; shared_top_level=[]; layout_match=True; stroke_gap=14"
+    },
+    {
+      "rank": 5,
+      "bank_id": "wxz_2408",
+      "character": "殖",
+      "wxz_path": "/d/htt/data/image/train/wxz/2408.jpg",
+      "score": 8.0,
+      "layout_match": false,
+      "shared_components": [
+        "且",
+        "十"
+      ],
+      "shared_top_level_components": [
+        "直"
+      ],
+      "stroke_count_gap": 12,
+      "reason": "shared_non_trivial=['且', '十']; shared_top_level=['直']; layout_match=False; stroke_gap=12"
+    }
+  ],
+  "鑽": [
+    {
+      "rank": 1,
+      "bank_id": "wxz_1798",
+      "character": "銑",
+      "wxz_path": "/d/htt/data/image/train/wxz/1798.jpg",
+      "score": 19.0,
+      "layout_match": true,
+      "shared_components": [
+        "丷",
+        "人",
+        "儿",
+        "十",
+        "𠂒"
+      ],
+      "shared_top_level_components": [
+        "金"
+      ],
+      "stroke_count_gap": 13,
+      "reason": "shared_non_trivial=['丷', '人', '儿', '十', '𠂒']; shared_top_level=['金']; layout_match=True; stroke_gap=13"
+    },
+    {
+      "rank": 2,
+      "bank_id": "wxz_3713",
+      "character": "銃",
+      "wxz_path": "/d/htt/data/image/train/wxz/3713.jpg",
+      "score": 16.0,
+      "layout_match": true,
+      "shared_components": [
+        "丷",
+        "人",
+        "儿",
+        "十"
+      ],
+      "shared_top_level_components": [
+        "金"
+      ],
+      "stroke_count_gap": 13,
+      "reason": "shared_non_trivial=['丷', '人', '儿', '十']; shared_top_level=['金']; layout_match=True; stroke_gap=13"
+    },
+    {
+      "rank": 3,
+      "bank_id": "wxz_1469",
+      "character": "爆",
+      "wxz_path": "/d/htt/data/image/train/wxz/1469.jpg",
+      "score": 14.0,
+      "layout_match": true,
+      "shared_components": [
+        "丷",
+        "人",
+        "八",
+        "十"
+      ],
+      "shared_top_level_components": [],
+      "stroke_count_gap": 8,
+      "reason": "shared_non_trivial=['丷', '人', '八', '十']; shared_top_level=[]; layout_match=True; stroke_gap=8"
+    },
+    {
+      "rank": 4,
+      "bank_id": "wxz_1951",
+      "character": "鑄",
+      "wxz_path": "/d/htt/data/image/train/wxz/1951.jpg",
+      "score": 13.5,
+      "layout_match": true,
+      "shared_components": [
+        "丷",
+        "人",
+        "十"
+      ],
+      "shared_top_level_components": [
+        "金"
+      ],
+      "stroke_count_gap": 5,
+      "reason": "shared_non_trivial=['丷', '人', '十']; shared_top_level=['金']; layout_match=True; stroke_gap=5"
+    },
+    {
+      "rank": 5,
+      "bank_id": "wxz_5426",
+      "character": "鎬",
+      "wxz_path": "/d/htt/data/image/test/wxz/5426.jpg",
+      "score": 13.0,
+      "layout_match": true,
+      "shared_components": [
+        "丷",
+        "人",
+        "十"
+      ],
+      "shared_top_level_components": [
+        "金"
+      ],
+      "stroke_count_gap": 9,
+      "reason": "shared_non_trivial=['丷', '人', '十']; shared_top_level=['金']; layout_match=True; stroke_gap=9"
+    }
+  ],
+  "麟": [
+    {
+      "rank": 1,
+      "bank_id": "wxz_0053",
+      "character": "鳞",
+      "wxz_path": "/d/htt/data/image/train/wxz/0053.jpg",
+      "score": 13.5,
+      "layout_match": true,
+      "shared_components": [
+        "㐄",
+        "米",
+        "𠂊"
+      ],
+      "shared_top_level_components": [
+        "粦"
+      ],
+      "stroke_count_gap": 3,
+      "reason": "shared_non_trivial=['㐄', '米', '𠂊']; shared_top_level=['粦']; layout_match=True; stroke_gap=3"
+    },
+    {
+      "rank": 2,
+      "bank_id": "wxz_0915",
+      "character": "憐",
+      "wxz_path": "/d/htt/data/image/train/wxz/0915.jpg",
+      "score": 13.0,
+      "layout_match": true,
+      "shared_components": [
+        "㐄",
+        "米",
+        "𠂊"
+      ],
+      "shared_top_level_components": [
+        "粦"
+      ],
+      "stroke_count_gap": 8,
+      "reason": "shared_non_trivial=['㐄', '米', '𠂊']; shared_top_level=['粦']; layout_match=True; stroke_gap=8"
+    },
+    {
+      "rank": 3,
+      "bank_id": "wxz_2636",
+      "character": "磷",
+      "wxz_path": "/d/htt/data/image/train/wxz/2636.jpg",
+      "score": 13.0,
+      "layout_match": true,
+      "shared_components": [
+        "㐄",
+        "米",
+        "𠂊"
+      ],
+      "shared_top_level_components": [
+        "粦"
+      ],
+      "stroke_count_gap": 6,
+      "reason": "shared_non_trivial=['㐄', '米', '𠂊']; shared_top_level=['粦']; layout_match=True; stroke_gap=6"
+    },
+    {
+      "rank": 4,
+      "bank_id": "wxz_3849",
+      "character": "鄰",
+      "wxz_path": "/d/htt/data/image/train/wxz/3849.jpg",
+      "score": 13.0,
+      "layout_match": true,
+      "shared_components": [
+        "㐄",
+        "米",
+        "𠂊"
+      ],
+      "shared_top_level_components": [
+        "粦"
+      ],
+      "stroke_count_gap": 9,
+      "reason": "shared_non_trivial=['㐄', '米', '𠂊']; shared_top_level=['粦']; layout_match=True; stroke_gap=9"
+    },
+    {
+      "rank": 5,
+      "bank_id": "wxz_6695",
+      "character": "糖",
+      "wxz_path": "/d/htt/data/image/test/wxz/6695.jpg",
+      "score": 11.0,
+      "layout_match": true,
+      "shared_components": [
+        "コ",
+        "广",
+        "米"
+      ],
+      "shared_top_level_components": [],
+      "stroke_count_gap": 7,
+      "reason": "shared_non_trivial=['コ', '广', '米']; shared_top_level=[]; layout_match=True; stroke_gap=7"
+    }
+  ],
+  "驢": [
+    {
+      "rank": 1,
+      "bank_id": "wxz_3407",
+      "character": "蘇",
+      "wxz_path": "/d/htt/data/image/train/wxz/3407.jpg",
+      "score": 6.0,
+      "layout_match": false,
+      "shared_components": [
+        "灬",
+        "田"
+      ],
+      "shared_top_level_components": [],
+      "stroke_count_gap": 7,
+      "reason": "shared_non_trivial=['灬', '田']; shared_top_level=[]; layout_match=False; stroke_gap=7"
+    },
+    {
+      "rank": 2,
+      "bank_id": "wxz_1982",
+      "character": "顯",
+      "wxz_path": "/d/htt/data/image/train/wxz/1982.jpg",
+      "score": 5.5,
+      "layout_match": true,
+      "shared_components": [
+        "灬"
+      ],
+      "shared_top_level_components": [],
+      "stroke_count_gap": 3,
+      "reason": "shared_non_trivial=['灬']; shared_top_level=[]; layout_match=True; stroke_gap=3"
+    },
+    {
+      "rank": 3,
+      "bank_id": "wxz_5594",
+      "character": "蟠",
+      "wxz_path": "/d/htt/data/image/test/wxz/5594.jpg",
+      "score": 5.0,
+      "layout_match": true,
+      "shared_components": [
+        "田"
+      ],
+      "shared_top_level_components": [],
+      "stroke_count_gap": 8,
+      "reason": "shared_non_trivial=['田']; shared_top_level=[]; layout_match=True; stroke_gap=8"
+    },
+    {
+      "rank": 4,
+      "bank_id": "wxz_5740",
+      "character": "疇",
+      "wxz_path": "/d/htt/data/image/test/wxz/5740.jpg",
+      "score": 5.0,
+      "layout_match": true,
+      "shared_components": [
+        "田"
+      ],
+      "shared_top_level_components": [],
+      "stroke_count_gap": 7,
+      "reason": "shared_non_trivial=['田']; shared_top_level=[]; layout_match=True; stroke_gap=7"
+    },
+    {
+      "rank": 5,
+      "bank_id": "wxz_5805",
+      "character": "猛",
+      "wxz_path": "/d/htt/data/image/test/wxz/5805.jpg",
+      "score": 5.0,
+      "layout_match": true,
+      "shared_components": [
+        "皿"
+      ],
+      "shared_top_level_components": [],
+      "stroke_count_gap": 15,
+      "reason": "shared_non_trivial=['皿']; shared_top_level=[]; layout_match=True; stroke_gap=15"
+    }
+  ],
+  "赢": [
+    {
+      "rank": 1,
+      "bank_id": "wxz_2834",
+      "character": "瀛",
+      "wxz_path": "/d/htt/data/image/train/wxz/2834.jpg",
+      "score": 10.0,
+      "layout_match": false,
+      "shared_components": [
+        "亡",
+        "口",
+        "月"
+      ],
+      "shared_top_level_components": [],
+      "stroke_count_gap": 2,
+      "reason": "shared_non_trivial=['亡', '口', '月']; shared_top_level=[]; layout_match=False; stroke_gap=2"
+    },
+    {
+      "rank": 2,
+      "bank_id": "wxz_6154",
+      "character": "臂",
+      "wxz_path": "/d/htt/data/image/test/wxz/6154.jpg",
+      "score": 9.0,
+      "layout_match": true,
+      "shared_components": [
+        "口",
+        "月"
+      ],
+      "shared_top_level_components": [],
+      "stroke_count_gap": 0,
+      "reason": "shared_non_trivial=['口', '月']; shared_top_level=[]; layout_match=True; stroke_gap=0"
+    },
+    {
+      "rank": 3,
+      "bank_id": "wxz_0976",
+      "character": "葫",
+      "wxz_path": "/d/htt/data/image/train/wxz/0976.jpg",
+      "score": 8.5,
+      "layout_match": true,
+      "shared_components": [
+        "口",
+        "月"
+      ],
+      "shared_top_level_components": [],
+      "stroke_count_gap": 5,
+      "reason": "shared_non_trivial=['口', '月']; shared_top_level=[]; layout_match=True; stroke_gap=5"
+    },
+    {
+      "rank": 4,
+      "bank_id": "wxz_2393",
+      "character": "膏",
+      "wxz_path": "/d/htt/data/image/train/wxz/2393.jpg",
+      "score": 8.5,
+      "layout_match": true,
+      "shared_components": [
+        "口",
+        "月"
+      ],
+      "shared_top_level_components": [],
+      "stroke_count_gap": 3,
+      "reason": "shared_non_trivial=['口', '月']; shared_top_level=[]; layout_match=True; stroke_gap=3"
+    },
+    {
+      "rank": 5,
+      "bank_id": "wxz_1487",
+      "character": "望",
+      "wxz_path": "/d/htt/data/image/train/wxz/1487.jpg",
+      "score": 8.0,
+      "layout_match": true,
+      "shared_components": [
+        "亡",
+        "月"
+      ],
+      "shared_top_level_components": [],
+      "stroke_count_gap": 6,
+      "reason": "shared_non_trivial=['亡', '月']; shared_top_level=[]; layout_match=True; stroke_gap=6"
+    }
+  ],
+  "諢": [
+    {
+      "rank": 1,
+      "bank_id": "wxz_5650",
+      "character": "輝",
+      "wxz_path": "/d/htt/data/image/test/wxz/5650.jpg",
+      "score": 11.0,
+      "layout_match": true,
+      "shared_components": [
+        "冖",
+        "車"
+      ],
+      "shared_top_level_components": [
+        "軍"
+      ],
+      "stroke_count_gap": 1,
+      "reason": "shared_non_trivial=['冖', '車']; shared_top_level=['軍']; layout_match=True; stroke_gap=1"
+    },
+    {
+      "rank": 2,
+      "bank_id": "wxz_6615",
+      "character": "諦",
+      "wxz_path": "/d/htt/data/image/test/wxz/6615.jpg",
+      "score": 11.0,
+      "layout_match": true,
+      "shared_components": [
+        "冖",
+        "言"
+      ],
+      "shared_top_level_components": [
+        "言"
+      ],
+      "stroke_count_gap": 0,
+      "reason": "shared_non_trivial=['冖', '言']; shared_top_level=['言']; layout_match=True; stroke_gap=0"
+    },
+    {
+      "rank": 3,
+      "bank_id": "wxz_1617",
+      "character": "渾",
+      "wxz_path": "/d/htt/data/image/train/wxz/1617.jpg",
+      "score": 10.5,
+      "layout_match": true,
+      "shared_components": [
+        "冖",
+        "車"
+      ],
+      "shared_top_level_components": [
+        "軍"
+      ],
+      "stroke_count_gap": 4,
+      "reason": "shared_non_trivial=['冖', '車']; shared_top_level=['軍']; layout_match=True; stroke_gap=4"
+    },
+    {
+      "rank": 4,
+      "bank_id": "wxz_3077",
+      "character": "惲",
+      "wxz_path": "/d/htt/data/image/train/wxz/3077.jpg",
+      "score": 10.5,
+      "layout_match": true,
+      "shared_components": [
+        "冖",
+        "車"
+      ],
+      "shared_top_level_components": [
+        "軍"
+      ],
+      "stroke_count_gap": 4,
+      "reason": "shared_non_trivial=['冖', '車']; shared_top_level=['軍']; layout_match=True; stroke_gap=4"
+    },
+    {
+      "rank": 5,
+      "bank_id": "wxz_4455",
+      "character": "琿",
+      "wxz_path": "/d/htt/data/image/train/wxz/4455.jpg",
+      "score": 10.5,
+      "layout_match": true,
+      "shared_components": [
+        "冖",
+        "車"
+      ],
+      "shared_top_level_components": [
+        "軍"
+      ],
+      "stroke_count_gap": 3,
+      "reason": "shared_non_trivial=['冖', '車']; shared_top_level=['軍']; layout_match=True; stroke_gap=3"
+    }
+  ],
+  "囊": [
+    {
+      "rank": 1,
+      "bank_id": "wxz_6415",
+      "character": "囔",
+      "wxz_path": "/d/htt/data/image/test/wxz/6415.jpg",
+      "score": 12.5,
+      "layout_match": false,
+      "shared_components": [
+        "井",
+        "冖",
+        "口",
+        "𧘇"
+      ],
+      "shared_top_level_components": [],
+      "stroke_count_gap": 3,
+      "reason": "shared_non_trivial=['井', '冖', '口', '𧘇']; shared_top_level=[]; layout_match=False; stroke_gap=3"
+    },
+    {
+      "rank": 2,
+      "bank_id": "wxz_0205",
+      "character": "橐",
+      "wxz_path": "/d/htt/data/image/train/wxz/0205.jpg",
+      "score": 12.0,
+      "layout_match": true,
+      "shared_components": [
+        "冖",
+        "口"
+      ],
+      "shared_top_level_components": [
+        "⿻一中",
+        "冖"
+      ],
+      "stroke_count_gap": 6,
+      "reason": "shared_non_trivial=['冖', '口']; shared_top_level=['⿻一中', '冖']; layout_match=True; stroke_gap=6"
+    },
+    {
+      "rank": 3,
+      "bank_id": "wxz_0540",
+      "character": "襄",
+      "wxz_path": "/d/htt/data/image/train/wxz/0540.jpg",
+      "score": 11.5,
+      "layout_match": true,
+      "shared_components": [
+        "井",
+        "口",
+        "𧘇"
+      ],
+      "shared_top_level_components": [],
+      "stroke_count_gap": 5,
+      "reason": "shared_non_trivial=['井', '口', '𧘇']; shared_top_level=[]; layout_match=True; stroke_gap=5"
+    },
+    {
+      "rank": 4,
+      "bank_id": "wxz_0361",
+      "character": "讓",
+      "wxz_path": "/d/htt/data/image/train/wxz/0361.jpg",
+      "score": 10.0,
+      "layout_match": false,
+      "shared_components": [
+        "井",
+        "口",
+        "𧘇"
+      ],
+      "shared_top_level_components": [],
+      "stroke_count_gap": 2,
+      "reason": "shared_non_trivial=['井', '口', '𧘇']; shared_top_level=[]; layout_match=False; stroke_gap=2"
+    },
+    {
+      "rank": 5,
+      "bank_id": "wxz_0382",
+      "character": "嚷",
+      "wxz_path": "/d/htt/data/image/train/wxz/0382.jpg",
+      "score": 10.0,
+      "layout_match": false,
+      "shared_components": [
+        "井",
+        "口",
+        "𧘇"
+      ],
+      "shared_top_level_components": [],
+      "stroke_count_gap": 2,
+      "reason": "shared_non_trivial=['井', '口', '𧘇']; shared_top_level=[]; layout_match=False; stroke_gap=2"
+    }
+  ],
+  "鑫": [
+    {
+      "rank": 1,
+      "bank_id": "wxz_0172",
+      "character": "鑒",
+      "wxz_path": "/d/htt/data/image/train/wxz/0172.jpg",
+      "score": 14.0,
+      "layout_match": true,
+      "shared_components": [
+        "丷",
+        "人",
+        "十"
+      ],
+      "shared_top_level_components": [
+        "金"
+      ],
+      "stroke_count_gap": 2,
+      "reason": "shared_non_trivial=['丷', '人', '十']; shared_top_level=['金']; layout_match=True; stroke_gap=2"
+    },
+    {
+      "rank": 2,
+      "bank_id": "wxz_1333",
+      "character": "鑒",
+      "wxz_path": "/d/htt/data/image/train/wxz/1333.jpg",
+      "score": 14.0,
+      "layout_match": true,
+      "shared_components": [
+        "丷",
+        "人",
+        "十"
+      ],
+      "shared_top_level_components": [
+        "金"
+      ],
+      "stroke_count_gap": 2,
+      "reason": "shared_non_trivial=['丷', '人', '十']; shared_top_level=['金']; layout_match=True; stroke_gap=2"
+    },
+    {
+      "rank": 3,
+      "bank_id": "wxz_1951",
+      "character": "鑄",
+      "wxz_path": "/d/htt/data/image/train/wxz/1951.jpg",
+      "score": 12.0,
+      "layout_match": false,
+      "shared_components": [
+        "丷",
+        "人",
+        "十"
+      ],
+      "shared_top_level_components": [
+        "金"
+      ],
+      "stroke_count_gap": 2,
+      "reason": "shared_non_trivial=['丷', '人', '十']; shared_top_level=['金']; layout_match=False; stroke_gap=2"
+    },
+    {
+      "rank": 4,
+      "bank_id": "wxz_0321",
+      "character": "鏑",
+      "wxz_path": "/d/htt/data/image/train/wxz/0321.jpg",
+      "score": 11.5,
+      "layout_match": false,
+      "shared_components": [
+        "丷",
+        "人",
+        "十"
+      ],
+      "shared_top_level_components": [
+        "金"
+      ],
+      "stroke_count_gap": 5,
+      "reason": "shared_non_trivial=['丷', '人', '十']; shared_top_level=['金']; layout_match=False; stroke_gap=5"
+    },
+    {
+      "rank": 5,
+      "bank_id": "wxz_1650",
+      "character": "鐸",
+      "wxz_path": "/d/htt/data/image/train/wxz/1650.jpg",
+      "score": 11.5,
+      "layout_match": false,
+      "shared_components": [
+        "丷",
+        "人",
+        "十"
+      ],
+      "shared_top_level_components": [
+        "金"
+      ],
+      "stroke_count_gap": 3,
+      "reason": "shared_non_trivial=['丷', '人', '十']; shared_top_level=['金']; layout_match=False; stroke_gap=3"
+    }
+  ]
+}

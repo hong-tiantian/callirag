@@ -1,0 +1,151 @@
+﻿target_char,retrieval_type,rank,bank_id,retrieved_char,wxz_path,score,layout_match,shared_components,shared_top_level_components,stroke_count_gap,reason
+騫,structural,1,wxz_2995,賽,/d/htt/data/image/train/wxz/2995.jpg,13.5,True,井|八|宀,𡨄,3,"shared_non_trivial=['井', '八', '宀']; shared_top_level=['𡨄']; layout_match=True; stroke_gap=3"
+騫,structural,2,wxz_5891,寒,/d/htt/data/image/test/wxz/5891.jpg,13.0,True,井|八|宀,𡨄,8,"shared_non_trivial=['井', '八', '宀']; shared_top_level=['𡨄']; layout_match=True; stroke_gap=8"
+騫,structural,3,wxz_0751,搴,/d/htt/data/image/train/wxz/0751.jpg,13.0,True,井|八|宀,𡨄,6,"shared_non_trivial=['井', '八', '宀']; shared_top_level=['𡨄']; layout_match=True; stroke_gap=6"
+騫,structural,4,wxz_4564,塞,/d/htt/data/image/train/wxz/4564.jpg,13.0,True,井|八|宀,𡨄,7,"shared_non_trivial=['井', '八', '宀']; shared_top_level=['𡨄']; layout_match=True; stroke_gap=7"
+騫,structural,5,wxz_4590,寨,/d/htt/data/image/train/wxz/4590.jpg,13.0,True,井|八|宀,𡨄,6,"shared_non_trivial=['井', '八', '宀']; shared_top_level=['𡨄']; layout_match=True; stroke_gap=6"
+騫,random,1,wxz_6536,警,/d/htt/data/image/test/wxz/6536.jpg,,True,,,1,uniform_sample_seed=2026
+騫,random,2,wxz_1575,娶,/d/htt/data/image/train/wxz/1575.jpg,,True,,,9,uniform_sample_seed=2026
+騫,random,3,wxz_3325,殉,/d/htt/data/image/train/wxz/3325.jpg,,False,,,10,uniform_sample_seed=2026
+騫,random,4,wxz_3401,沱,/d/htt/data/image/train/wxz/3401.jpg,,False,宀,,12,uniform_sample_seed=2026
+騫,random,5,wxz_4744,欧,/d/htt/data/image/train/wxz/4744.jpg,,False,,,12,uniform_sample_seed=2026
+癱,structural,1,wxz_3626,灘,/d/htt/data/image/train/wxz/3626.jpg,18.0,False,二|人|口|廿|隹,難,2,"shared_non_trivial=['二', '人', '口', '廿', '隹']; shared_top_level=['難']; layout_match=False; stroke_gap=2"
+癱,structural,2,wxz_5837,儺,/d/htt/data/image/test/wxz/5837.jpg,17.5,False,二|人|口|廿|隹,難,3,"shared_non_trivial=['二', '人', '口', '廿', '隹']; shared_top_level=['難']; layout_match=False; stroke_gap=3"
+癱,structural,3,wxz_6516,難,/d/htt/data/image/test/wxz/6516.jpg,15.5,False,二|人|口|廿|隹,,5,"shared_non_trivial=['二', '人', '口', '廿', '隹']; shared_top_level=[]; layout_match=False; stroke_gap=5"
+癱,structural,4,wxz_0980,痴,/d/htt/data/image/train/wxz/0980.jpg,13.0,True,人|口|疒,疒,11,"shared_non_trivial=['人', '口', '疒']; shared_top_level=['疒']; layout_match=True; stroke_gap=11"
+癱,structural,5,wxz_1879,漢,/d/htt/data/image/train/wxz/1879.jpg,12.0,False,二|人|口|廿,,10,"shared_non_trivial=['二', '人', '口', '廿']; shared_top_level=[]; layout_match=False; stroke_gap=10"
+癱,random,1,wxz_6378,岬,/d/htt/data/image/test/wxz/6378.jpg,,False,,,16,uniform_sample_seed=2026
+癱,random,2,wxz_0767,江,/d/htt/data/image/train/wxz/0767.jpg,,False,,,18,uniform_sample_seed=2026
+癱,random,3,wxz_4295,願,/d/htt/data/image/train/wxz/4295.jpg,,False,,,5,uniform_sample_seed=2026
+癱,random,4,wxz_4490,住,/d/htt/data/image/train/wxz/4490.jpg,,False,,,17,uniform_sample_seed=2026
+癱,random,5,wxz_3850,淼,/d/htt/data/image/train/wxz/3850.jpg,,False,,,12,uniform_sample_seed=2026
+霆,structural,1,wxz_5623,零,/d/htt/data/image/test/wxz/5623.jpg,8.0,True,雨,雨,1,shared_non_trivial=['雨']; shared_top_level=['雨']; layout_match=True; stroke_gap=1
+霆,structural,2,wxz_6027,霉,/d/htt/data/image/test/wxz/6027.jpg,8.0,True,雨,雨,1,shared_non_trivial=['雨']; shared_top_level=['雨']; layout_match=True; stroke_gap=1
+霆,structural,3,wxz_6222,霏,/d/htt/data/image/test/wxz/6222.jpg,8.0,True,雨,雨,2,shared_non_trivial=['雨']; shared_top_level=['雨']; layout_match=True; stroke_gap=2
+霆,structural,4,wxz_1034,雷,/d/htt/data/image/train/wxz/1034.jpg,8.0,True,雨,雨,1,shared_non_trivial=['雨']; shared_top_level=['雨']; layout_match=True; stroke_gap=1
+霆,structural,5,wxz_1107,霖,/d/htt/data/image/train/wxz/1107.jpg,8.0,True,雨,雨,2,shared_non_trivial=['雨']; shared_top_level=['雨']; layout_match=True; stroke_gap=2
+霆,random,1,wxz_2565,舰,/d/htt/data/image/train/wxz/2565.jpg,,False,,,4,uniform_sample_seed=2026
+霆,random,2,wxz_4014,盛,/d/htt/data/image/train/wxz/4014.jpg,,True,,,3,uniform_sample_seed=2026
+霆,random,3,wxz_3763,孫,/d/htt/data/image/train/wxz/3763.jpg,,False,,,4,uniform_sample_seed=2026
+霆,random,4,wxz_3212,填,/d/htt/data/image/train/wxz/3212.jpg,,False,,,1,uniform_sample_seed=2026
+霆,random,5,wxz_4150,硫,/d/htt/data/image/train/wxz/4150.jpg,,False,,,2,uniform_sample_seed=2026
+鳞,structural,1,wxz_0915,憐,/d/htt/data/image/train/wxz/0915.jpg,10.5,True,㐄|米,粦,5,"shared_non_trivial=['㐄', '米']; shared_top_level=['粦']; layout_match=True; stroke_gap=5"
+鳞,structural,2,wxz_2475,麟,/d/htt/data/image/train/wxz/2475.jpg,10.5,True,㐄|米,粦,3,"shared_non_trivial=['㐄', '米']; shared_top_level=['粦']; layout_match=True; stroke_gap=3"
+鳞,structural,3,wxz_2636,磷,/d/htt/data/image/train/wxz/2636.jpg,10.5,True,㐄|米,粦,3,"shared_non_trivial=['㐄', '米']; shared_top_level=['粦']; layout_match=True; stroke_gap=3"
+鳞,structural,4,wxz_3849,鄰,/d/htt/data/image/train/wxz/3849.jpg,10.0,True,㐄|米,粦,6,"shared_non_trivial=['㐄', '米']; shared_top_level=['粦']; layout_match=True; stroke_gap=6"
+鳞,structural,5,wxz_3284,遴,/d/htt/data/image/train/wxz/3284.jpg,8.5,False,㐄|米,粦,5,"shared_non_trivial=['㐄', '米']; shared_top_level=['粦']; layout_match=False; stroke_gap=5"
+鳞,random,1,wxz_2741,乙,/d/htt/data/image/train/wxz/2741.jpg,,False,,,19,uniform_sample_seed=2026
+鳞,random,2,wxz_0913,急,/d/htt/data/image/train/wxz/0913.jpg,,False,,,11,uniform_sample_seed=2026
+鳞,random,3,wxz_5423,誰,/d/htt/data/image/test/wxz/5423.jpg,,True,,,5,uniform_sample_seed=2026
+鳞,random,4,wxz_4416,雀,/d/htt/data/image/train/wxz/4416.jpg,,False,,,9,uniform_sample_seed=2026
+鳞,random,5,wxz_6174,限,/d/htt/data/image/test/wxz/6174.jpg,,True,,,12,uniform_sample_seed=2026
+變,structural,1,wxz_6536,警,/d/htt/data/image/test/wxz/6536.jpg,8.5,True,攵|言,,4,"shared_non_trivial=['攵', '言']; shared_top_level=[]; layout_match=True; stroke_gap=4"
+變,structural,2,wxz_6641,繁,/d/htt/data/image/test/wxz/6641.jpg,8.0,True,攵|糸,,6,"shared_non_trivial=['攵', '糸']; shared_top_level=[]; layout_match=True; stroke_gap=6"
+變,structural,3,wxz_0894,徽,/d/htt/data/image/train/wxz/0894.jpg,6.0,False,攵|糸,,6,"shared_non_trivial=['攵', '糸']; shared_top_level=[]; layout_match=False; stroke_gap=6"
+變,structural,4,wxz_5310,缴,/d/htt/data/image/train/wxz/5310.jpg,6.0,False,攵|糸,,7,"shared_non_trivial=['攵', '糸']; shared_top_level=[]; layout_match=False; stroke_gap=7"
+變,structural,5,wxz_5966,霰,/d/htt/data/image/test/wxz/5966.jpg,5.5,True,攵,,3,shared_non_trivial=['攵']; shared_top_level=[]; layout_match=True; stroke_gap=3
+變,random,1,wxz_6464,灼,/d/htt/data/image/test/wxz/6464.jpg,,False,,,16,uniform_sample_seed=2026
+變,random,2,wxz_1312,阮,/d/htt/data/image/train/wxz/1312.jpg,,False,,,17,uniform_sample_seed=2026
+變,random,3,wxz_6331,移,/d/htt/data/image/test/wxz/6331.jpg,,False,,,12,uniform_sample_seed=2026
+變,random,4,wxz_2818,筠,/d/htt/data/image/train/wxz/2818.jpg,,True,,,10,uniform_sample_seed=2026
+變,random,5,wxz_5514,晏,/d/htt/data/image/test/wxz/5514.jpg,,True,,,13,uniform_sample_seed=2026
+鱸,structural,1,wxz_3407,蘇,/d/htt/data/image/train/wxz/3407.jpg,9.0,False,灬|田|𠂊,,8,"shared_non_trivial=['灬', '田', '𠂊']; shared_top_level=[]; layout_match=False; stroke_gap=8"
+鱸,structural,2,wxz_6189,鲆,/d/htt/data/image/test/wxz/6189.jpg,8.0,True,田|𠂊,,14,"shared_non_trivial=['田', '𠂊']; shared_top_level=[]; layout_match=True; stroke_gap=14"
+鱸,structural,3,wxz_0015,璨,/d/htt/data/image/train/wxz/0015.jpg,8.0,True,⺊|𠂊,,10,"shared_non_trivial=['⺊', '𠂊']; shared_top_level=[]; layout_match=True; stroke_gap=10"
+鱸,structural,4,wxz_0053,鳞,/d/htt/data/image/train/wxz/0053.jpg,8.0,True,田|𠂊,,7,"shared_non_trivial=['田', '𠂊']; shared_top_level=[]; layout_match=True; stroke_gap=7"
+鱸,structural,5,wxz_0256,鲷,/d/htt/data/image/train/wxz/0256.jpg,8.0,True,田|𠂊,,11,"shared_non_trivial=['田', '𠂊']; shared_top_level=[]; layout_match=True; stroke_gap=11"
+鱸,random,1,wxz_5125,整,/d/htt/data/image/train/wxz/5125.jpg,,False,,,11,uniform_sample_seed=2026
+鱸,random,2,wxz_3206,垢,/d/htt/data/image/train/wxz/3206.jpg,,True,,,18,uniform_sample_seed=2026
+鱸,random,3,wxz_5076,唄,/d/htt/data/image/train/wxz/5076.jpg,,True,,,17,uniform_sample_seed=2026
+鱸,random,4,wxz_1525,於,/d/htt/data/image/train/wxz/1525.jpg,,True,,,19,uniform_sample_seed=2026
+鱸,random,5,wxz_0646,哥,/d/htt/data/image/train/wxz/0646.jpg,,False,,,17,uniform_sample_seed=2026
+衢,structural,1,wxz_1194,衍,/d/htt/data/image/train/wxz/1194.jpg,12.0,True,丁|彳,亍|彳,15,"shared_non_trivial=['丁', '彳']; shared_top_level=['亍', '彳']; layout_match=True; stroke_gap=15"
+衢,structural,2,wxz_2257,衡,/d/htt/data/image/train/wxz/2257.jpg,12.0,True,丁|彳,亍|彳,8,"shared_non_trivial=['丁', '彳']; shared_top_level=['亍', '彳']; layout_match=True; stroke_gap=8"
+衢,structural,3,wxz_2512,街,/d/htt/data/image/train/wxz/2512.jpg,12.0,True,丁|彳,亍|彳,12,"shared_non_trivial=['丁', '彳']; shared_top_level=['亍', '彳']; layout_match=True; stroke_gap=12"
+衢,structural,4,wxz_2566,衡,/d/htt/data/image/train/wxz/2566.jpg,12.0,True,丁|彳,亍|彳,8,"shared_non_trivial=['丁', '彳']; shared_top_level=['亍', '彳']; layout_match=True; stroke_gap=8"
+衢,structural,5,wxz_3132,衛,/d/htt/data/image/train/wxz/3132.jpg,12.0,True,丁|彳,亍|彳,9,"shared_non_trivial=['丁', '彳']; shared_top_level=['亍', '彳']; layout_match=True; stroke_gap=9"
+衢,random,1,wxz_2329,桂,/d/htt/data/image/train/wxz/2329.jpg,,False,,,14,uniform_sample_seed=2026
+衢,random,2,wxz_0999,伊,/d/htt/data/image/train/wxz/0999.jpg,,False,,,18,uniform_sample_seed=2026
+衢,random,3,wxz_1844,馨,/d/htt/data/image/train/wxz/1844.jpg,,False,,,4,uniform_sample_seed=2026
+衢,random,4,wxz_1938,蛀,/d/htt/data/image/train/wxz/1938.jpg,,False,,,13,uniform_sample_seed=2026
+衢,random,5,wxz_2129,佑,/d/htt/data/image/train/wxz/2129.jpg,,False,,,17,uniform_sample_seed=2026
+矗,structural,1,wxz_5063,置,/d/htt/data/image/train/wxz/5063.jpg,10.0,True,且|十,直,11,"shared_non_trivial=['且', '十']; shared_top_level=['直']; layout_match=True; stroke_gap=11"
+矗,structural,2,wxz_5468,植,/d/htt/data/image/test/wxz/5468.jpg,8.0,False,且|十,直,12,"shared_non_trivial=['且', '十']; shared_top_level=['直']; layout_match=False; stroke_gap=12"
+矗,structural,3,wxz_5509,值,/d/htt/data/image/test/wxz/5509.jpg,8.0,False,且|十,直,14,"shared_non_trivial=['且', '十']; shared_top_level=['直']; layout_match=False; stroke_gap=14"
+矗,structural,4,wxz_6173,真,/d/htt/data/image/test/wxz/6173.jpg,8.0,True,且|十,,14,"shared_non_trivial=['且', '十']; shared_top_level=[]; layout_match=True; stroke_gap=14"
+矗,structural,5,wxz_2408,殖,/d/htt/data/image/train/wxz/2408.jpg,8.0,False,且|十,直,12,"shared_non_trivial=['且', '十']; shared_top_level=['直']; layout_match=False; stroke_gap=12"
+矗,random,1,wxz_3423,升,/d/htt/data/image/train/wxz/3423.jpg,,True,,,20,uniform_sample_seed=2026
+矗,random,2,wxz_4664,制,/d/htt/data/image/train/wxz/4664.jpg,,False,,,16,uniform_sample_seed=2026
+矗,random,3,wxz_6132,涕,/d/htt/data/image/test/wxz/6132.jpg,,False,,,14,uniform_sample_seed=2026
+矗,random,4,wxz_1782,粘,/d/htt/data/image/train/wxz/1782.jpg,,False,,,13,uniform_sample_seed=2026
+矗,random,5,wxz_6251,屑,/d/htt/data/image/test/wxz/6251.jpg,,False,,,14,uniform_sample_seed=2026
+鑽,structural,1,wxz_1798,銑,/d/htt/data/image/train/wxz/1798.jpg,19.0,True,丷|人|儿|十|𠂒,金,13,"shared_non_trivial=['丷', '人', '儿', '十', '𠂒']; shared_top_level=['金']; layout_match=True; stroke_gap=13"
+鑽,structural,2,wxz_3713,銃,/d/htt/data/image/train/wxz/3713.jpg,16.0,True,丷|人|儿|十,金,13,"shared_non_trivial=['丷', '人', '儿', '十']; shared_top_level=['金']; layout_match=True; stroke_gap=13"
+鑽,structural,3,wxz_1469,爆,/d/htt/data/image/train/wxz/1469.jpg,14.0,True,丷|人|八|十,,8,"shared_non_trivial=['丷', '人', '八', '十']; shared_top_level=[]; layout_match=True; stroke_gap=8"
+鑽,structural,4,wxz_1951,鑄,/d/htt/data/image/train/wxz/1951.jpg,13.5,True,丷|人|十,金,5,"shared_non_trivial=['丷', '人', '十']; shared_top_level=['金']; layout_match=True; stroke_gap=5"
+鑽,structural,5,wxz_5426,鎬,/d/htt/data/image/test/wxz/5426.jpg,13.0,True,丷|人|十,金,9,"shared_non_trivial=['丷', '人', '十']; shared_top_level=['金']; layout_match=True; stroke_gap=9"
+鑽,random,1,wxz_3858,嗣,/d/htt/data/image/train/wxz/3858.jpg,,True,十,,14,uniform_sample_seed=2026
+鑽,random,2,wxz_3655,痘,/d/htt/data/image/train/wxz/3655.jpg,,False,,,15,uniform_sample_seed=2026
+鑽,random,3,wxz_1347,匾,/d/htt/data/image/train/wxz/1347.jpg,,False,十,,16,uniform_sample_seed=2026
+鑽,random,4,wxz_1313,垒,/d/htt/data/image/train/wxz/1313.jpg,,False,十,,18,uniform_sample_seed=2026
+鑽,random,5,wxz_2880,熠,/d/htt/data/image/train/wxz/2880.jpg,,True,人|八,,12,uniform_sample_seed=2026
+麟,structural,1,wxz_0053,鳞,/d/htt/data/image/train/wxz/0053.jpg,13.5,True,㐄|米|𠂊,粦,3,"shared_non_trivial=['㐄', '米', '𠂊']; shared_top_level=['粦']; layout_match=True; stroke_gap=3"
+麟,structural,2,wxz_0915,憐,/d/htt/data/image/train/wxz/0915.jpg,13.0,True,㐄|米|𠂊,粦,8,"shared_non_trivial=['㐄', '米', '𠂊']; shared_top_level=['粦']; layout_match=True; stroke_gap=8"
+麟,structural,3,wxz_2636,磷,/d/htt/data/image/train/wxz/2636.jpg,13.0,True,㐄|米|𠂊,粦,6,"shared_non_trivial=['㐄', '米', '𠂊']; shared_top_level=['粦']; layout_match=True; stroke_gap=6"
+麟,structural,4,wxz_3849,鄰,/d/htt/data/image/train/wxz/3849.jpg,13.0,True,㐄|米|𠂊,粦,9,"shared_non_trivial=['㐄', '米', '𠂊']; shared_top_level=['粦']; layout_match=True; stroke_gap=9"
+麟,structural,5,wxz_6695,糖,/d/htt/data/image/test/wxz/6695.jpg,11.0,True,コ|广|米,,7,"shared_non_trivial=['コ', '广', '米']; shared_top_level=[]; layout_match=True; stroke_gap=7"
+麟,random,1,wxz_0028,記,/d/htt/data/image/train/wxz/0028.jpg,,True,,,13,uniform_sample_seed=2026
+麟,random,2,wxz_4721,凡,/d/htt/data/image/train/wxz/4721.jpg,,False,,,20,uniform_sample_seed=2026
+麟,random,3,wxz_5330,眠,/d/htt/data/image/train/wxz/5330.jpg,,True,,,13,uniform_sample_seed=2026
+麟,random,4,wxz_4053,渲,/d/htt/data/image/train/wxz/4053.jpg,,True,,,11,uniform_sample_seed=2026
+麟,random,5,wxz_1487,望,/d/htt/data/image/train/wxz/1487.jpg,,False,,,12,uniform_sample_seed=2026
+驢,structural,1,wxz_3407,蘇,/d/htt/data/image/train/wxz/3407.jpg,6.0,False,灬|田,,7,"shared_non_trivial=['灬', '田']; shared_top_level=[]; layout_match=False; stroke_gap=7"
+驢,structural,2,wxz_1982,顯,/d/htt/data/image/train/wxz/1982.jpg,5.5,True,灬,,3,shared_non_trivial=['灬']; shared_top_level=[]; layout_match=True; stroke_gap=3
+驢,structural,3,wxz_5594,蟠,/d/htt/data/image/test/wxz/5594.jpg,5.0,True,田,,8,shared_non_trivial=['田']; shared_top_level=[]; layout_match=True; stroke_gap=8
+驢,structural,4,wxz_5740,疇,/d/htt/data/image/test/wxz/5740.jpg,5.0,True,田,,7,shared_non_trivial=['田']; shared_top_level=[]; layout_match=True; stroke_gap=7
+驢,structural,5,wxz_5805,猛,/d/htt/data/image/test/wxz/5805.jpg,5.0,True,皿,,15,shared_non_trivial=['皿']; shared_top_level=[]; layout_match=True; stroke_gap=15
+驢,random,1,wxz_5643,官,/d/htt/data/image/test/wxz/5643.jpg,,False,,,18,uniform_sample_seed=2026
+驢,random,2,wxz_2060,喜,/d/htt/data/image/train/wxz/2060.jpg,,False,,,14,uniform_sample_seed=2026
+驢,random,3,wxz_2015,多,/d/htt/data/image/train/wxz/2015.jpg,,False,,,20,uniform_sample_seed=2026
+驢,random,4,wxz_2915,故,/d/htt/data/image/train/wxz/2915.jpg,,True,,,17,uniform_sample_seed=2026
+驢,random,5,wxz_2572,他,/d/htt/data/image/train/wxz/2572.jpg,,True,,,21,uniform_sample_seed=2026
+赢,structural,1,wxz_2834,瀛,/d/htt/data/image/train/wxz/2834.jpg,10.0,False,亡|口|月,,2,"shared_non_trivial=['亡', '口', '月']; shared_top_level=[]; layout_match=False; stroke_gap=2"
+赢,structural,2,wxz_6154,臂,/d/htt/data/image/test/wxz/6154.jpg,9.0,True,口|月,,0,"shared_non_trivial=['口', '月']; shared_top_level=[]; layout_match=True; stroke_gap=0"
+赢,structural,3,wxz_0976,葫,/d/htt/data/image/train/wxz/0976.jpg,8.5,True,口|月,,5,"shared_non_trivial=['口', '月']; shared_top_level=[]; layout_match=True; stroke_gap=5"
+赢,structural,4,wxz_2393,膏,/d/htt/data/image/train/wxz/2393.jpg,8.5,True,口|月,,3,"shared_non_trivial=['口', '月']; shared_top_level=[]; layout_match=True; stroke_gap=3"
+赢,structural,5,wxz_1487,望,/d/htt/data/image/train/wxz/1487.jpg,8.0,True,亡|月,,6,"shared_non_trivial=['亡', '月']; shared_top_level=[]; layout_match=True; stroke_gap=6"
+赢,random,1,wxz_6262,硝,/d/htt/data/image/test/wxz/6262.jpg,,False,口|月,,5,uniform_sample_seed=2026
+赢,random,2,wxz_2348,璇,/d/htt/data/image/train/wxz/2348.jpg,,False,,,2,uniform_sample_seed=2026
+赢,random,3,wxz_4147,梧,/d/htt/data/image/train/wxz/4147.jpg,,False,口,,6,uniform_sample_seed=2026
+赢,random,4,wxz_3825,翔,/d/htt/data/image/train/wxz/3825.jpg,,False,,,5,uniform_sample_seed=2026
+赢,random,5,wxz_3293,啤,/d/htt/data/image/train/wxz/3293.jpg,,False,口,,6,uniform_sample_seed=2026
+諢,structural,1,wxz_5650,輝,/d/htt/data/image/test/wxz/5650.jpg,11.0,True,冖|車,軍,1,"shared_non_trivial=['冖', '車']; shared_top_level=['軍']; layout_match=True; stroke_gap=1"
+諢,structural,2,wxz_6615,諦,/d/htt/data/image/test/wxz/6615.jpg,11.0,True,冖|言,言,0,"shared_non_trivial=['冖', '言']; shared_top_level=['言']; layout_match=True; stroke_gap=0"
+諢,structural,3,wxz_1617,渾,/d/htt/data/image/train/wxz/1617.jpg,10.5,True,冖|車,軍,4,"shared_non_trivial=['冖', '車']; shared_top_level=['軍']; layout_match=True; stroke_gap=4"
+諢,structural,4,wxz_3077,惲,/d/htt/data/image/train/wxz/3077.jpg,10.5,True,冖|車,軍,4,"shared_non_trivial=['冖', '車']; shared_top_level=['軍']; layout_match=True; stroke_gap=4"
+諢,structural,5,wxz_4455,琿,/d/htt/data/image/train/wxz/4455.jpg,10.5,True,冖|車,軍,3,"shared_non_trivial=['冖', '車']; shared_top_level=['軍']; layout_match=True; stroke_gap=3"
+諢,random,1,wxz_6513,烙,/d/htt/data/image/test/wxz/6513.jpg,,True,,,6,uniform_sample_seed=2026
+諢,random,2,wxz_2603,旺,/d/htt/data/image/train/wxz/2603.jpg,,True,,,8,uniform_sample_seed=2026
+諢,random,3,wxz_3360,拴,/d/htt/data/image/train/wxz/3360.jpg,,True,,,7,uniform_sample_seed=2026
+諢,random,4,wxz_4276,沮,/d/htt/data/image/train/wxz/4276.jpg,,True,,,8,uniform_sample_seed=2026
+諢,random,5,wxz_3212,填,/d/htt/data/image/train/wxz/3212.jpg,,True,,,3,uniform_sample_seed=2026
+囊,structural,1,wxz_6415,囔,/d/htt/data/image/test/wxz/6415.jpg,12.5,False,井|冖|口|𧘇,,3,"shared_non_trivial=['井', '冖', '口', '𧘇']; shared_top_level=[]; layout_match=False; stroke_gap=3"
+囊,structural,2,wxz_0205,橐,/d/htt/data/image/train/wxz/0205.jpg,12.0,True,冖|口,⿻一中|冖,6,"shared_non_trivial=['冖', '口']; shared_top_level=['⿻一中', '冖']; layout_match=True; stroke_gap=6"
+囊,structural,3,wxz_0540,襄,/d/htt/data/image/train/wxz/0540.jpg,11.5,True,井|口|𧘇,,5,"shared_non_trivial=['井', '口', '𧘇']; shared_top_level=[]; layout_match=True; stroke_gap=5"
+囊,structural,4,wxz_0361,讓,/d/htt/data/image/train/wxz/0361.jpg,10.0,False,井|口|𧘇,,2,"shared_non_trivial=['井', '口', '𧘇']; shared_top_level=[]; layout_match=False; stroke_gap=2"
+囊,structural,5,wxz_0382,嚷,/d/htt/data/image/train/wxz/0382.jpg,10.0,False,井|口|𧘇,,2,"shared_non_trivial=['井', '口', '𧘇']; shared_top_level=[]; layout_match=False; stroke_gap=2"
+囊,random,1,wxz_2339,歷,/d/htt/data/image/train/wxz/2339.jpg,,False,,,6,uniform_sample_seed=2026
+囊,random,2,wxz_3547,重,/d/htt/data/image/train/wxz/3547.jpg,,False,,,13,uniform_sample_seed=2026
+囊,random,3,wxz_1055,蛟,/d/htt/data/image/train/wxz/1055.jpg,,False,,,10,uniform_sample_seed=2026
+囊,random,4,wxz_2558,康,/d/htt/data/image/train/wxz/2558.jpg,,False,,,11,uniform_sample_seed=2026
+囊,random,5,wxz_3926,答,/d/htt/data/image/train/wxz/3926.jpg,,False,口,,10,uniform_sample_seed=2026
+鑫,structural,1,wxz_0172,鑒,/d/htt/data/image/train/wxz/0172.jpg,14.0,True,丷|人|十,金,2,"shared_non_trivial=['丷', '人', '十']; shared_top_level=['金']; layout_match=True; stroke_gap=2"
+鑫,structural,2,wxz_1333,鑒,/d/htt/data/image/train/wxz/1333.jpg,14.0,True,丷|人|十,金,2,"shared_non_trivial=['丷', '人', '十']; shared_top_level=['金']; layout_match=True; stroke_gap=2"
+鑫,structural,3,wxz_1951,鑄,/d/htt/data/image/train/wxz/1951.jpg,12.0,False,丷|人|十,金,2,"shared_non_trivial=['丷', '人', '十']; shared_top_level=['金']; layout_match=False; stroke_gap=2"
+鑫,structural,4,wxz_0321,鏑,/d/htt/data/image/train/wxz/0321.jpg,11.5,False,丷|人|十,金,5,"shared_non_trivial=['丷', '人', '十']; shared_top_level=['金']; layout_match=False; stroke_gap=5"
+鑫,structural,5,wxz_1650,鐸,/d/htt/data/image/train/wxz/1650.jpg,11.5,False,丷|人|十,金,3,"shared_non_trivial=['丷', '人', '十']; shared_top_level=['金']; layout_match=False; stroke_gap=3"
+鑫,random,1,wxz_3095,杠,/d/htt/data/image/train/wxz/3095.jpg,,False,,,17,uniform_sample_seed=2026
+鑫,random,2,wxz_3420,怡,/d/htt/data/image/train/wxz/3420.jpg,,False,,,16,uniform_sample_seed=2026
+鑫,random,3,wxz_3482,梨,/d/htt/data/image/train/wxz/3482.jpg,,True,,,13,uniform_sample_seed=2026
+鑫,random,4,wxz_5648,岩,/d/htt/data/image/test/wxz/5648.jpg,,True,,,16,uniform_sample_seed=2026
+鑫,random,5,wxz_4034,洋,/d/htt/data/image/train/wxz/4034.jpg,,False,丷,,15,uniform_sample_seed=2026
