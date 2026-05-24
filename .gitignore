@@ -24,15 +24,17 @@ Thumbs.db
 *.tmp
 *.bak
 
-# Large/local image assets
-cases/content/
-cases/baseline/
-cases/gt/
+# Local-only annotation / OCR workspace (not part of the public repo)
+metrics/
+
+# IDS / Unihan source files (download separately; not under bank/)
 assets/
-*.png
-*.jpg
-*.jpeg
-*.webp
+
+# Large generated output images (CSVs/JSON under outputs/ are tracked)
+outputs/legacy/
+outputs/**/generation_outputs/
+outputs/**/blind_images/
+outputs/**/blind_pair_sheets/
 
 # Model/checkpoint artifacts
 ckpt/
@@ -42,10 +44,12 @@ checkpoints/
 *.pth
 *.safetensors
 
-# Generated or legacy experiment outputs
-outputs/legacy/
-outputs/**/generation_outputs/
-outputs/**/blind_images/
-
-# Local data dumps
+# Local data dumps (wxz image roots outside this repo)
 data/
+
+# Ignore stray images outside cases/; cases/** is tracked (see README)
+*.png
+*.jpg
+*.jpeg
+*.webp
+!cases/**
