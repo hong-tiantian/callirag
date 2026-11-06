@@ -1,0 +1,5 @@
+﻿comparison_type,C_win_count,baseline_or_random_win_count,tie_count,unclear_count,C_win_rate,structural_reason_count,local_detail_better_count,component_structure_better_count,unknown_reason_tag_count
+A_vs_C,2,7,6,0,0.222222,8,8,0,0
+B_vs_C,24,21,30,0,0.533333,45,45,0,0
+C_rank1_vs_D_rank3,6,2,7,0,0.75,7,7,0,0
+C_rank1_vs_D_rank5,6,1,8,0,0.857143,6,6,0,0
